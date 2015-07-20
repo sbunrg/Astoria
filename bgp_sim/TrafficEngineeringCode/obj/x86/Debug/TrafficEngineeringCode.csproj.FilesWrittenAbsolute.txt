@@ -1,0 +1,5 @@
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/trafficengineeringcode/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/trafficengineeringcode/bin/Debug/TrafficEngineeringCode.exe.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/trafficengineeringcode/bin/Debug/TrafficEngineeringCode.exe
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/trafficengineeringcode/obj/x86/Debug/TrafficEngineeringCode.exe
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/trafficengineeringcode/obj/x86/Debug/TrafficEngineeringCode.exe.mdb

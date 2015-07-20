@@ -1,0 +1,15 @@
+input CyclopsReversep2.txt
+destination all
+setw 1 1
+setw 2 1
+setw 3 0 
+setw 4 0
+setw 5 0
+setw 6 0
+setw 7 0
+setw 8 0
+setw 9 0
+setw 10 0
+setw 11 0
+setw 12 0
+setutilitycomputation outgoing12:03 PM 22/11/2010

@@ -1,0 +1,10 @@
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/testingapplication/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/testingapplication/bin/Debug/TestingApplication.exe.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/testingapplication/bin/Debug/TestingApplication.exe
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/testingapplication/obj/x86/Debug/TestingApplication.exe
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/testingapplication/obj/x86/Debug/TestingApplication.exe.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/testingapplication/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/testingapplication/bin/Debug/TestingApplication.exe.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/testingapplication/bin/Debug/TestingApplication.exe
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/testingapplication/obj/x86/Debug/TestingApplication.exe
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/testingapplication/obj/x86/Debug/TestingApplication.exe.mdb

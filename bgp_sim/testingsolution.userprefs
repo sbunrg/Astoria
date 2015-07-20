@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecureSimulator/NetworkGraph.cs">
+    <Files>
+      <File FileName="TestingApplication/PathChecker.cs" Line="1" Column="1" />
+      <File FileName="TestingApplication/TestingClass.cs" Line="31" Column="31" />
+      <File FileName="SecureSimulator/Destination.cs" Line="59" Column="59" />
+      <File FileName="SecureSimulator/BFS.cs" Line="1" Column="1" />
+      <File FileName="SecureSimulator/AsNode.cs" Line="1" Column="1" />
+      <File FileName="SecureSimulator/Constants.cs" Line="1" Column="1" />
+      <File FileName="SecureSimulator/Message.cs" Line="1" Column="1" />
+      <File FileName="SecureSimulator/NetworkGraph.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

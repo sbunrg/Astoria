@@ -1,0 +1,40 @@
+input Cyclops_2009_IXP.txt
+destination 15169
+getcustomers 7018 stubs
+turnonstubs
+gets 86
+sets 15169
+numberon
+iterateall 
+numberon
+iterateall 
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+iterateall  
+numberon
+

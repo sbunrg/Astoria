@@ -1,0 +1,6 @@
+input cyclops_2009_ixp.txt
+turnonstubs
+sets 88
+destination 88
+iterate
+compareu 100 1

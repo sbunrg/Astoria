@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/adoptTraffic/!svn/ver/135/Code/AzureSecureSimulator/CloudLibrary
+END
+ObjectToText.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/adoptTraffic/!svn/ver/135/Code/AzureSecureSimulator/CloudLibrary/ObjectToText.cs
+END
+BlobLibrary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/adoptTraffic/!svn/ver/123/Code/AzureSecureSimulator/CloudLibrary/BlobLibrary.cs
+END
+CloudLibrary.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/adoptTraffic/!svn/ver/81/Code/AzureSecureSimulator/CloudLibrary/CloudLibrary.csproj
+END
+Serialize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/adoptTraffic/!svn/ver/32/Code/AzureSecureSimulator/CloudLibrary/Serialize.cs
+END
+AccountInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/adoptTraffic/!svn/ver/123/Code/AzureSecureSimulator/CloudLibrary/AccountInfo.cs
+END
+DestinationToText.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/adoptTraffic/!svn/ver/32/Code/AzureSecureSimulator/CloudLibrary/DestinationToText.cs
+END
+QueueLibrary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/adoptTraffic/!svn/ver/123/Code/AzureSecureSimulator/CloudLibrary/QueueLibrary.cs
+END
+BlobInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/adoptTraffic/!svn/ver/32/Code/AzureSecureSimulator/CloudLibrary/BlobInfo.cs
+END

@@ -1,0 +1,11 @@
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\CloudLibrary.dll
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\CloudLibrary.pdb
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\obj\Debug\CloudLibrary.dll
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\obj\Debug\CloudLibrary.pdb
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\SecureSimulator.dll
+C:\Users\phillipa\Desktop\adoptTraffic\Code\AzureSecureSimulator\CloudLibrary\bin\Debug\SecureSimulator.pdb

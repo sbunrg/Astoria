@@ -1,0 +1,13 @@
+input CyclopsMultiDest.txt
+destination 1
+destination 2
+turnonstubs
+printstate 8
+iterate 1
+iterate 2
+flipallu
+printstate 8
+iterate 1
+iterate 2
+flipallu
+printstate 8

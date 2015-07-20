@@ -1,0 +1,59 @@
+input Cyclops_2009_IXP.txt
+destination 15169
+destination 11643
+destination 22414
+destination 14907
+destination 10467
+destination 2914
+destination 32934
+destination 16509
+turnonstubs
+sets 11643
+sets 2914
+sets 16509
+sets 15169
+gets 22414
+gets 14907
+gets 32934
+gets 10467
+numberon
+iterateall 0.1 
+numberon
+iterateall 0.1 
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon
+iterateall 0.1  
+numberon

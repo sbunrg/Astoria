@@ -1,0 +1,14 @@
+input Cyclopstoygraph2.txt
+destination 1
+sets 1
+sets 7
+sets 8
+printstate 10
+iterate
+compareu
+flipu
+printstate 10
+iterate
+sets 4
+iterate
+compareu

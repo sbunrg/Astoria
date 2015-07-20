@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using SecureSimulator;
+
+namespace TestingApplication
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string testPath="mycontainer";
+            string directoryName="";
+         //   string newpth=SimulatorLibrary.generateDirectoryName(testPath, ref  directoryName);
+            TestingClass test = new TestingClass();
+          SimulatorLibrary.setHash(false);
+
+
+          string IXPFile = "C:\\Users\\phillipa\\Desktop\\adoptTraffic\\Data\\IXPs\\ixp-members-all-unique.txt";
+          List<UInt32> IXPs = SimulatorLibrary.getIXPASes(IXPFile);
+
+       
+            test.CLI(true);
+           //   BenchmarkNewAlg(test.getTestingGraphFilename());
+        }
+
+    }
+}

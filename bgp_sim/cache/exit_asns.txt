@@ -1,0 +1,1215 @@
+Bulk mode; whois.cymru.com [2015-04-20 15:04:49 +0000]
+4224    | 162.247.72.201   | CALYX-AS - The Calyx Institute,US
+7018    | 99.102.183.74    | ATT-INTERNET4 - AT&T Services, Inc.,US
+6128    | 24.187.20.8      | CABLE-NET-1 - Cablevision Systems Corp.,US
+55053   | 162.248.160.151  | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+44180   | 193.34.117.51    | EMSLANDTEL-AS ETN EmslandTel.Net GmbH & Co KG,DE
+47869   | 109.235.50.163   | NETROUTING-AS Netrouting,NL
+2116    | 193.90.12.87     | ASN-CATCHCOM Broadnet AS,NO
+15657   | 217.13.197.5     | SPEEDBONE-AS Speedbone Internet & Connectivity GmbH,DE
+58073   | 46.182.106.190   | YISP-AS YISP B.V.,NL
+8866    | 46.10.205.252    | BTC-AS Bulgarian Telecommunication Company Plc.,BG
+8473    | 79.136.42.226    | BAHNHOF Bahnhof Internet AB,SE
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+42708   | 188.126.93.81    | PORTLANE Portlane AB,SE
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+8437    | 78.142.175.70    | UTA-AS Tele2 Telecommunication GmbH,AT
+6939    | 216.218.134.12   | HURRICANE - Hurricane Electric, Inc.,US
+202018  | 188.166.50.113   | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+52173   | 95.215.47.177    | MAKONIX Makonix SIA,LV
+42708   | 188.126.74.17    | PORTLANE Portlane AB,SE
+7545    | 110.174.43.136   | TPG-INTERNET-AP TPG Telecom Limited,AU
+12876   | 62.210.72.75     | AS12876 ONLINE S.A.S.,FR
+31103   | 84.19.179.229    | KEYWEB-AS Keyweb AG,DE
+25513   | 109.252.74.143   | ASN-MGTS-USPD OJS Moscow city telephone network,RU
+30968   | 109.120.173.48   | INFOBOX-AS Infobox.ru Autonomous System,RU
+3303    | 188.63.172.134   | SWISSCOM Swisscom (Switzerland) Ltd,CH
+8151    | 189.249.72.213   | Uninet S.A. de C.V.,MX
+12876   | 195.154.70.205   | AS12876 ONLINE S.A.S.,FR
+43350   | 77.247.181.162   | NFORCE NFOrce Entertainment BV,NL
+13184   | 195.160.172.180  | HANSENET Telefonica Germany GmbH & Co.OHG,DE
+16125   | 185.65.200.93    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+197922  | 185.13.38.132    | FIRSTHEBERG Techcrea Solutions Sarl,FR
+15962   | 95.105.162.106   | OSK-DNI ORANGE Slovensko - ISP IP backbone,SK
+33387   | 192.151.154.142  | DATASHACK - DataShack, LC,US
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+62567   | 162.243.253.118  | DIGITALOCEAN-ASN-NY2 - Digital Ocean, Inc.,US
+6739    | 79.109.148.203   | ONO-AS Cableuropa - ONO,ES
+6921    | 69.85.93.59      | ARACHNITEC - Arachnitec, INC.,US
+29148   | 91.221.111.7     | ASSURANY SURANY.NET s.r.o.,CZ
+9269    | 14.199.113.179   | HKBN-AS-AP Hong Kong Broadband Network Ltd.,HK
+24961   | 193.111.136.164  | MYLOC-AS myLoc managed IT AG,DE
+45144   | 43.252.36.12     | NETONBOARD-MY Net Onboard Sdn Bhd - Quality & Reliable Cloud Hosting Provider,MY
+6364    | 104.245.39.74    | ATLANTIC-NET - Atlantic.net, Inc.,US
+36351   | 72.14.176.172    | SOFTLAYER - SoftLayer Technologies Inc.,US
+6775    | 79.134.234.247   | BACKBONE_EHF_EUROPE Backbone ehf,CH
+16276   | 198.50.231.22    | OVH OVH SAS,FR
+35366   | 85.31.184.138    | ISPPRO-AS ISPpro Internet KG,DE
+15557   | 86.72.68.31      | LDCOMNET Societe Francaise du Radiotelephone S.A,FR
+43289   | 178.175.139.142  | I.C.S. Trabia-Network S.R.L.,MD
+52173   | 95.215.44.194    | MAKONIX Makonix SIA,LV
+4224    | 162.247.72.216   | CALYX-AS - The Calyx Institute,US
+36024   | 74.50.54.68      | COLO4-CO - Colo4, LLC,US
+2586    | 87.119.186.109   | UNINET-AS Elisa Eesti AS,FI
+45839   | 101.99.64.150    | PIRADIUS-AS PIRADIUS NET AS45839,MY
+29066   | 5.44.107.23      | VELIANET-AS velia.net Internetdienste GmbH,DE
+59702   | 185.16.200.176   | JUNET-AS Junet AB,SE
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+16509   | 52.8.62.128      | AMAZON-02 - Amazon.com, Inc.,US
+60071   | 95.140.42.183    | RENDSZERNET-AS RendszerNET Kft.,HU
+43289   | 178.175.139.138  | I.C.S. Trabia-Network S.R.L.,MD
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+58073   | 37.220.35.142    | YISP-AS YISP B.V.,NL
+5612    | 85.159.113.228   | HNHW8-AS Handelsweg8.nl,NL
+5483    | 84.3.0.53        | HTC-AS Magyar Telekom Plc.,HU
+5391    | 93.139.172.103   | T-HT Hrvatski Telekom d.d.,HR
+5432    | 81.243.148.233   | BELGACOM-SKYNET-AS BELGACOM S.A.,BE
+31400   | 82.211.19.143    | ACCELERATED-IT Accelerated IT Services GmbH,DE
+200130  | 188.226.199.160  | DIGITALOCEAN-ASN-1 Digital Ocean, Inc.,EU
+43350   | 77.247.181.162   | NFORCE NFOrce Entertainment BV,NL
+1102    | 194.104.0.100    | SMEERBOEL-AS SMEERBOEL BV,EU
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+47165   | 109.120.10.167   | OMKC-AS Omskie kabelnye seti Ltd.,RU
+6539    | 209.17.191.117   | GT-BELL - Bell Canada,CA
+15830   | 212.71.252.116   | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+6939    | 72.52.75.27      | HURRICANE - Hurricane Electric, Inc.,US
+21743   | 66.171.179.194   | ANL-36 - Atlas Networks Corporation,US
+55053   | 104.167.103.52   | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+51395   | 176.10.99.205    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+6724    | 85.214.11.209    | STRATO STRATO AG,DE
+2856    | 86.148.218.72    | BT-UK-AS BT Public Internet Service,GB
+29169   | 217.70.191.13    | GANDI-AS Gandi SAS,FR
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+15895   | 46.211.204.3     | KSNET-AS _Kyivstar_ PJSC,UA
+60087   | 46.252.152.192   | ASSUPERNOVA SUPERNOVA S.R.L.,IT
+51852   | 179.43.152.247   | PLI-AS Private Layer INC,CH
+31334   | 91.67.73.182     | KABELDEUTSCHLAND-AS Kabel Deutschland Vertrieb und Service GmbH,DE
+3320    | 91.55.135.231    | DTAG Deutsche Telekom AG,DE
+60781   | 77.81.240.41     | LEASEWEB-NL LeaseWeb B.V.,NL
+7018    | 108.247.244.204  | ATT-INTERNET4 - AT&T Services, Inc.,US
+60781   | 85.17.177.73     | LEASEWEB-NL LeaseWeb B.V.,NL
+36351   | 173.255.202.40   | SOFTLAYER - SoftLayer Technologies Inc.,US
+198031  | 91.146.121.3     | TRUSTICA-AS Trustica s.r.o.,CZ
+7162    | 200.98.139.23    | Universo Online S.A.,BR
+16509   | 54.187.55.29     | AMAZON-02 - Amazon.com, Inc.,US
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+9371    | 49.212.173.222   | SAKURA-C SAKURA Internet Inc.,JP
+12876   | 62.210.69.5      | AS12876 ONLINE S.A.S.,FR
+30176   | 204.11.50.131    | AS-PRIORITYCOLO - Priority Colo Inc,CA
+237     | 198.108.63.107   | MERIT-AS-14 - Merit Network Inc.,US
+6939    | 72.52.91.30      | HURRICANE - Hurricane Electric, Inc.,US
+29405   | 109.74.151.149   | VNET-AS VNET a.s.,SK
+201630  | 185.77.129.241   | QHOSTER QHOSTER LTD.,BG
+16509   | 52.68.94.115     | AMAZON-02 - Amazon.com, Inc.,US
+3352    | 81.39.109.175    | TELEFONICA_DE_ESPANA TELEFONICA DE ESPANA,ES
+26046   | 129.123.7.6      | USU-EDU - Utah State University,US
+6805    | 77.4.61.81       | TDDE-ASN1 Telefonica Germany GmbH & Co.OHG,DE
+43289   | 178.175.139.140  | I.C.S. Trabia-Network S.R.L.,MD
+57043   | 146.0.72.180     | HOSTKEY-AS HOSTKEY B.V.,NL
+60781   | 95.211.81.104    | LEASEWEB-NL LeaseWeb B.V.,NL
+3292    | 2.107.22.186     | TDC TDC A/S,DK
+31078   | 217.115.10.131   | NETSIGN Netsign Networks GmbH,DE
+60781   | 62.212.93.123    | LEASEWEB-NL LeaseWeb B.V.,NL
+31400   | 84.200.69.95     | ACCELERATED-IT Accelerated IT Services GmbH,DE
+6830    | 81.89.0.202      | LGI-UPC Liberty Global Operations B.V.,AT
+4713    | 180.61.83.144    | OCN NTT Communications Corporation,JP
+20676   | 92.194.46.233    | QSC-1 QSC AG,DE
+52173   | 185.61.149.176   | MAKONIX Makonix SIA,LV
+29169   | 46.226.109.48    | GANDI-AS Gandi SAS,FR
+8359    | 83.237.39.217    | MTS MTS OJSC,RU
+201630  | 185.77.129.133   | QHOSTER QHOSTER LTD.,BG
+1221    | 120.146.238.21   | ASN-TELSTRA Telstra Pty Ltd,AU
+50673   | 185.12.12.133    | SERVERIUS-AS Serverius Holding B.V.,NL
+197328  | 46.45.137.71     | INETLTD INTER NET BILGISAYAR TURIZM TIC LTD STI,TR
+55536   | 103.10.197.50    | PSWITCH-HK PACSWITCH (ASIA) NETWORK,HK
+201630  | 185.77.129.54    | QHOSTER QHOSTER LTD.,BG
+16509   | 52.8.59.206      | AMAZON-02 - Amazon.com, Inc.,US
+56322   | 91.219.237.229   | AZAR-AS Azar-A Kft.,HU
+16276   | 142.4.213.113    | OVH OVH SAS,FR
+51395   | 176.10.99.208    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+54489   | 198.73.50.71     | CORESPACE-DAL - CoreSpace, Inc.,US
+33891   | 80.255.11.213    | CORE-BACKBONE Core-Backbone GmbH,DE
+15685   | 81.0.226.34      | CASABLANCA-AS Casablanca INT Autonomous system,CZ
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+35425   | 213.138.110.88   | BYTEMARK-AS Bytemark Computer Consulting Ltd,GB
+13184   | 92.228.132.12    | HANSENET Telefonica Germany GmbH & Co.OHG,DE
+15683   | 94.45.59.240     | DOMASHKA-AS Domashnya Merezha, LLC,UA
+44395   | 82.199.192.223   | ORG-UL31-RIPE UCOM LLC,AM
+3223    | 109.163.234.8    | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.234.8    | VOXILITY-AS Voxility S.R.L.,RO
+16276   | 151.80.204.14    | OVH OVH SAS,FR
+60781   | 109.120.180.245  | LEASEWEB-NL LeaseWeb B.V.,NL
+16276   | 192.99.154.24    | OVH OVH SAS,FR
+43948   | 31.192.228.185   | GLESYS-AS GleSYS Internet Services AB,SE
+13030   | 77.109.141.138   | INIT7 Init7 (Switzerland) Ltd.,CH
+49367   | 94.198.98.67     | ASSEFLOW Seflow S.N.C. Di Marco Brame_ & C.,IT
+48635   | 92.63.171.207    | PCEXTREME PCextreme B.V.,NL
+24940   | 178.63.94.144    | HETZNER-AS Hetzner Online AG,DE
+3209    | 94.223.147.151   | VODANET Vodafone GmbH,DE
+52173   | 95.215.44.249    | MAKONIX Makonix SIA,LV
+33440   | 199.167.198.121  | WEBRULON-NETWORK - webRulon, LLC,US
+51395   | 176.10.99.206    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+52173   | 185.61.148.228   | MAKONIX Makonix SIA,LV
+8100    | 67.215.255.140   | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+33668   | 50.245.124.131   | CMCS - Comcast Cable Communications, Inc.,US
+198203  | 81.4.104.82      | ASN-ROUTELABEL RouteLabel V.O.F.,NL
+6830    | 84.74.11.222     | LGI-UPC Liberty Global Operations B.V.,AT
+43289   | 178.175.139.141  | I.C.S. Trabia-Network S.R.L.,MD
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+6830    | 81.89.0.200      | LGI-UPC Liberty Global Operations B.V.,AT
+30083   | 209.126.110.112  | SERVER4YOU - Hosting Solutions International, Inc.,US
+6830    | 89.73.177.236    | LGI-UPC Liberty Global Operations B.V.,AT
+8228    | 88.142.236.232   | CEGETEL-AS Societe Francaise du Radiotelephone S.A,FR
+27933   | 200.9.255.32     | Universidad Galileo,GT
+2516    | 106.187.37.158   | KDDI KDDI CORPORATION,JP
+197301  | 80.71.131.57     | PARKNET-AS IT-Lauget Parknet,DK
+51430   | 79.142.70.3      | ALTUSHOST-NET AltusHost B.V.,NL
+3292    | 193.163.220.143  | TDC TDC A/S,DK
+35530   | 93.126.101.223   | PROLINE Proline TM Ltd.,UA
+36351   | 69.164.198.96    | SOFTLAYER - SoftLayer Technologies Inc.,US
+17813   | 120.59.163.196   | MTNL-AP Mahanagar Telephone Nigam Ltd.,IN
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+17813   | 120.57.161.59    | MTNL-AP Mahanagar Telephone Nigam Ltd.,IN
+51945   | 37.122.252.54    | CONNETU ConnetU Ltd.,GB
+33387   | 107.150.53.178   | DATASHACK - DataShack, LC,US
+36351   | 198.58.107.53    | SOFTLAYER - SoftLayer Technologies Inc.,US
+55053   | 104.167.107.142  | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+196689  | 95.130.15.97     | DIGICUBE01 Digicube sas,FR
+30083   | 199.217.113.52   | SERVER4YOU - Hosting Solutions International, Inc.,US
+51352   | 85.143.95.50     | VLSU-AS State Educational Institution of higher professional Education _Vladimir State University_,RU
+51815   | 78.108.63.44     | TEKNIKBYRAN Teknikbyran i Sverige AB,SE
+52173   | 185.61.148.193   | MAKONIX Makonix SIA,LV
+7545    | 115.64.210.11    | TPG-INTERNET-AP TPG Telecom Limited,AU
+250     | 194.150.168.79   | SACREDCHAO-AS AS250.net Foundation,DE
+16265   | 37.1.194.182     | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+29405   | 93.184.66.227    | VNET-AS VNET a.s.,SK
+12876   | 212.83.190.203   | AS12876 ONLINE S.A.S.,FR
+24940   | 78.46.51.124     | HETZNER-AS Hetzner Online AG,DE
+4323    | 207.201.223.195  | TWTC - tw telecom holdings, inc.,US
+61440   | 181.41.219.117   | Digital Energy Technologies Chile SpA,CL
+14618   | 54.164.156.70    | AMAZON-AES - Amazon.com, Inc.,US
+51395   | 176.10.99.200    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+46652   | 185.14.186.85    | SERVERSTACK-ASN - ServerStack, Inc.,US
+16509   | 52.8.59.233      | AMAZON-02 - Amazon.com, Inc.,US
+48031   | 91.213.8.235     | XSERVER-IP-NETWORK-AS PE Ivanov Vitaliy Sergeevich,UA
+46841   | 184.105.220.24   | FORKNETWORKING - Fork Networking, LLC,US
+197019  | 37.157.195.13    | WEDOS WEDOS Internet, a.s.,CZ
+51395   | 176.10.99.206    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+12322   | 78.211.85.101    | PROXAD Free SAS,FR
+50989   | 178.16.208.56    | SITABINFRA-NORDIC-AS SITAB Infrastruktur,NO
+196689  | 95.130.9.89      | DIGICUBE01 Digicube sas,FR
+51852   | 141.255.165.138  | PLI-AS Private Layer INC,CH
+46457   | 204.124.83.130   | CONFORMAL-SYSTEMS - Conformal Systems, LLC.,US
+24940   | 5.9.146.203      | HETZNER-AS Hetzner Online AG,DE
+48172   | 37.143.9.74      | OVERSUN Oversun Ltd,RU
+6874    | 195.19.174.115   | PSTU-AS State Educational Institution of Higher Professional Education _Perm State Technical University_,RU
+35470   | 178.18.83.215    | XL-AS XL Internet Services B.V.,NL
+20473   | 107.191.45.39    | AS-CHOOPA - Choopa, LLC,US
+29073   | 93.174.90.30     | ECATEL-AS AS29073, Ecatel Network,NL
+26046   | 129.123.7.6      | USU-EDU - Utah State University,US
+3462    | 61.230.204.29    | HINET Data Communication Business Group,TW
+3209    | 188.108.106.87   | VODANET Vodafone GmbH,DE
+12876   | 212.83.167.175   | AS12876 ONLINE S.A.S.,FR
+15154   | 64.113.32.29     | SBBSNET - Specialized Bulletin Board Systems,US
+8684    | 212.192.74.100   | PSU-AS State Educational Institution of Higher Professional Education _Perm State University_,RU
+2856    | 86.148.218.72    | BT-UK-AS BT Public Internet Service,GB
+133165  | 128.199.87.155   | DIGITALOCEAN-AS-AP Digital Ocean, Inc.,SG
+13301   | 89.163.171.250   | UNITEDCOLO-AS United Gameserver GmbH,DE
+47692   | 77.244.254.229   | NESSUS Nessus GmbH,AT
+15626   | 217.12.204.104   | ITLAS ITL Company,UA
+29073   | 94.102.51.58     | ECATEL-AS AS29073, Ecatel Network,NL
+11831   | 162.221.201.57   | ESECUREDATA - eSecureData,CA
+51430   | 37.46.122.73     | ALTUSHOST-NET AltusHost B.V.,NL
+20738   | 46.32.232.238    | AS20738 Webfusion Internet Solutions,GB
+3209    | 88.67.170.212    | VODANET Vodafone GmbH,DE
+8001    | 173.255.232.192  | NET-ACCESS-CORP - Net Access Corporation,US
+30633   | 207.244.82.109   | LEASEWEB-US - Leaseweb USA, Inc.,US
+4224    | 162.247.73.74    | CALYX-AS - The Calyx Institute,US
+55053   | 162.248.9.229    | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+30633   | 207.244.82.109   | LEASEWEB-US - Leaseweb USA, Inc.,US
+12715   | 37.11.35.28      | JAZZNET Jazz Telecom S.A.,ES
+52201   | 46.38.63.7       | TCTEL LLC _TC TEL_,RU
+45711   | 203.217.173.146  | IMEDIABIZ-AS-ID Imediabiz Indonesia,ID
+201630  | 185.77.129.222   | QHOSTER QHOSTER LTD.,BG
+6848    | 84.193.75.243    | TELENET-AS Telenet N.V.,BE
+701     | 98.117.4.18      | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business,US
+41011   | 93.115.241.2     | CH-NET-AS CH-NET SRL,RO
+11426   | 71.70.213.219    | SCRR-11426 - Time Warner Cable Internet LLC,US
+3352    | 83.41.144.123    | TELEFONICA_DE_ESPANA TELEFONICA DE ESPANA,ES
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+42431   | 46.233.0.70      | B-NET BiConsult Eood,BG
+25019   | 2.89.251.141     | SAUDINETSTC-AS Saudi Telecom Company JSC,SA
+8100    | 173.254.216.67   | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+17619   | 202.85.233.34    | POWERNETIX-AS POWERNETIX,HK
+209     | 205.168.84.133   | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC,US
+18881   | 179.181.113.59   | Global Village Telecom,BR
+8972    | 188.138.17.15    | PLUSSERVER-AS PlusServer AG,DE
+28986   | 62.197.40.155    | LOUDNCLEAR Loud-n-Clear Ltd.,GB
+39651   | 83.255.56.187    | COMHEM-SWEDEN Com Hem AB,SE
+2119    | 85.226.62.54     | TELENOR-NEXTEL Telenor Norge AS,NO
+12322   | 78.247.15.126    | PROXAD Free SAS,FR
+3320    | 217.85.146.251   | DTAG Deutsche Telekom AG,DE
+3265    | 82.161.210.87    | XS4ALL-NL XS4ALL Internet BV,NL
+46457   | 204.124.83.130   | CONFORMAL-SYSTEMS - Conformal Systems, LLC.,US
+29802   | 162.220.56.186   | HVC-AS - HIVELOCITY VENTURES CORP,US
+7018    | 99.119.136.144   | ATT-INTERNET4 - AT&T Services, Inc.,US
+51395   | 176.10.99.207    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+60118   | 176.126.252.12   | ALISTAR-AS ALISTAR SECURITY SRL,RO
+43948   | 185.72.177.105   | GLESYS-AS GleSYS Internet Services AB,SE
+22772   | 204.17.56.42     | LOGIN - Login, Inc.,US
+55053   | 104.167.113.138  | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+209     | 67.1.218.189     | CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC,US
+10796   | 74.142.74.157    | SCRR-10796 - Time Warner Cable Internet LLC,US
+2116    | 193.90.12.88     | ASN-CATCHCOM Broadnet AS,NO
+6848    | 78.21.6.161      | TELENET-AS Telenet N.V.,BE
+30968   | 92.243.69.105    | INFOBOX-AS Infobox.ru Autonomous System,RU
+36352   | 192.3.203.97     | AS-COLOCROSSING - ColoCrossing,US
+49505   | 188.93.17.123    | SELECTEL OOO _Network of data-centers _Selectel_,RU
+16276   | 198.50.191.95    | OVH OVH SAS,FR
+25515   | 89.109.197.241   | CTCNET-AS OJSC Rostelecom,RU
+8972    | 188.138.1.229    | PLUSSERVER-AS PlusServer AG,DE
+16276   | 87.98.250.222    | OVH OVH SAS,FR
+202018  | 188.166.43.61    | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+16276   | 37.59.100.11     | OVH OVH SAS,FR
+16276   | 5.135.148.171    | OVH OVH SAS,FR
+5089    | 77.102.43.189    | NTL Virgin Media Limited,GB
+16276   | 92.222.22.113    | OVH OVH SAS,FR
+52284   | 200.63.47.10     | Panamaserver.com,PA
+33657   | 50.197.11.194    | CMCS - Comcast Cable Communications, Inc.,US
+36149   | 141.239.152.53   | HAWAIIAN-TELCOM - Hawaiian Telcom Services Company, Inc.,US
+5483    | 195.228.45.176   | HTC-AS Magyar Telekom Plc.,HU
+2516    | 106.187.37.158   | KDDI KDDI CORPORATION,JP
+24961   | 62.141.45.12     | MYLOC-AS myLoc managed IT AG,DE
+9008    | 85.93.218.204    | AS9008 Visual Online S.A.,LU
+35492   | 78.41.115.145    | FUNKFEUER FunkFeuer - Verein zur Foerderung freier Netze (ZVR: 814804682),AT
+39608   | 176.37.40.213    | LANETUA-AS Lanet Network Ltd.,UA
+52173   | 95.215.44.30     | MAKONIX Makonix SIA,LV
+23655   | 111.69.160.99    | SNAP-NZ-AS Snap Internet Limited,NZ
+14618   | 52.0.4.72        | AMAZON-AES - Amazon.com, Inc.,US
+7015    | 50.247.195.124   | COMCAST-7015 - Comcast Cable Communications Holdings, Inc,US
+52173   | 95.215.45.195    | MAKONIX Makonix SIA,LV
+51395   | 176.10.99.201    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+51395   | 176.10.99.204    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+20001   | 76.93.208.175    | ROADRUNNER-WEST - Time Warner Cable Internet LLC,US
+46457   | 204.124.83.134   | CONFORMAL-SYSTEMS - Conformal Systems, LLC.,US
+48039   | 94.103.175.86    | KGT-AS KGT new media,DE
+12322   | 88.127.96.38     | PROXAD Free SAS,FR
+51852   | 179.43.152.254   | PLI-AS Private Layer INC,CH
+25577   | 84.45.76.10      | C4L-AS Connexions4London Ltd,GB
+18450   | 142.4.51.228     | WEBNX - WebNX, Inc.,US
+701     | 96.242.128.99    | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business,US
+24961   | 5.199.142.93     | MYLOC-AS myLoc managed IT AG,DE
+25577   | 84.45.76.11      | C4L-AS Connexions4London Ltd,GB
+16509   | 54.153.74.162    | AMAZON-02 - Amazon.com, Inc.,US
+194     | 192.43.244.42    | NCAR-AS - University Corporation for Atmospheric Research,US
+42038   | 5.100.118.166    | VLADLINK-AS VladLink LTD AS,RU
+16276   | 188.165.59.43    | OVH OVH SAS,FR
+58326   | 91.106.209.136   | FORT-IT Fort IT Services Ltd,CY
+133165  | 128.199.168.142  | DIGITALOCEAN-AS-AP Digital Ocean, Inc.,SG
+6830    | 81.89.0.203      | LGI-UPC Liberty Global Operations B.V.,AT
+12322   | 82.247.198.227   | PROXAD Free SAS,FR
+8151    | 187.211.71.186   | Uninet S.A. de C.V.,MX
+36436   | 199.115.205.242  | INFOBUNKER - Infobunker, L.L.C.,US
+30083   | 209.126.110.112  | SERVER4YOU - Hosting Solutions International, Inc.,US
+35366   | 81.7.11.70       | ISPPRO-AS ISPpro Internet KG,DE
+62638   | 192.67.222.5     | QUERY-FOUNDRY - Query Foundry, LLC,US
+24940   | 176.9.99.134     | HETZNER-AS Hetzner Online AG,DE
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+196689  | 95.130.11.170    | DIGICUBE01 Digicube sas,FR
+44136   | 46.16.234.131    | ASODERLAND ODERLAND Webbhotell AB,SE
+8972    | 188.138.9.49     | PLUSSERVER-AS PlusServer AG,DE
+42964   | 178.238.223.67   | SIGMANET-HU-AS SigmaNet Szolgaltato es Kereskedelm Ltd,HU
+44257   | 91.143.63.101    | TNGS-SOUTH CJSC _COMSTAR-regions_,RU
+8447    | 188.22.247.106   | TELEKOM-AT A1 Telekom Austria AG,AT
+40193   | 209.159.138.19   | AS-TRIT - Trit Networks, LLC,US
+56485   | 176.114.3.209    | THEHOST-AS FOP Sedinkin Olexandr Valeriyovuch,UA
+6830    | 80.98.80.130     | LGI-UPC Liberty Global Operations B.V.,AT
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+60781   | 95.211.81.104    | LEASEWEB-NL LeaseWeb B.V.,NL
+6874    | 195.19.174.114   | PSTU-AS State Educational Institution of Higher Professional Education _Perm State Technical University_,RU
+196752  | 37.252.127.221   | TILAA Tilaa B.V.,NL
+17813   | 120.59.40.31     | MTNL-AP Mahanagar Telephone Nigam Ltd.,IN
+36352   | 198.12.80.187    | AS-COLOCROSSING - ColoCrossing,US
+34533   | 46.0.116.149     | ESAMARA-AS CJSC _ER-Telecom Holding_,RU
+36352   | 23.95.43.72      | AS-COLOCROSSING - ColoCrossing,US
+16276   | 176.31.152.159   | OVH OVH SAS,FR
+8764    | 78.61.12.99      | TEOLTAB TEO LT, AB,LT
+30083   | 209.126.110.113  | SERVER4YOU - Hosting Solutions International, Inc.,US
+201630  | 185.77.129.88    | QHOSTER QHOSTER LTD.,BG
+20860   | 109.169.23.202   | IOMART-AS Iomart,GB
+13285   | 2.98.200.182     | OPALTELECOM-AS TalkTalk Communications Limited,GB
+8100    | 96.44.189.101    | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+6939    | 104.237.156.214  | HURRICANE - Hurricane Electric, Inc.,US
+36351   | 198.58.115.210   | SOFTLAYER - SoftLayer Technologies Inc.,US
+12876   | 195.154.9.55     | AS12876 ONLINE S.A.S.,FR
+51815   | 78.108.63.46     | TEKNIKBYRAN Teknikbyran i Sverige AB,SE
+12876   | 195.154.13.96    | AS12876 ONLINE S.A.S.,FR
+8560    | 74.208.47.18     | ONEANDONE-AS 1&1 Internet AG,DE
+16276   | 92.222.3.82      | OVH OVH SAS,FR
+6744    | 150.140.5.34     | RACTI-NET Research Academic Computer Technology Institute (CTI),GR
+36352   | 192.3.172.236    | AS-COLOCROSSING - ColoCrossing,US
+36375   | 35.0.127.52      | UMICH-AS-5 - University of Michigan,US
+3       | 18.125.1.222     | MIT-GATEWAYS - Massachusetts Institute of Technology,US
+12322   | 82.64.75.6       | PROXAD Free SAS,FR
+30083   | 209.126.110.113  | SERVER4YOU - Hosting Solutions International, Inc.,US
+62403   | 185.36.100.145   | DISKGROUP Disk Group Ltd.,CZ
+57841   | 176.106.54.54    | NEOLAIN_IT_AS NEOLAIN IT SIA,LV
+29580   | 78.83.93.89      | HOMELAN-AS MOBILTEL EAD,BG
+43350   | 77.247.181.163   | NFORCE NFOrce Entertainment BV,NL
+2516    | 106.186.28.33    | KDDI KDDI CORPORATION,JP
+8972    | 217.172.190.19   | PLUSSERVER-AS PlusServer AG,DE
+30083   | 209.126.110.113  | SERVER4YOU - Hosting Solutions International, Inc.,US
+202018  | 128.199.51.208   | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+15659   | 80.203.16.46     | NEXTGENTEL NEXTGENTEL Autonomous System,NO
+197216  | 79.98.107.90     | DELTA-BG-AS Delta Softmedia Ltd.,BG
+24971   | 80.79.23.7       | MASTER-AS Master Internet s.r.o,CZ
+24940   | 176.9.133.154    | HETZNER-AS Hetzner Online AG,DE
+4224    | 162.247.73.204   | CALYX-AS - The Calyx Institute,US
+16276   | 198.50.145.72    | OVH OVH SAS,FR
+12714   | 46.72.72.138     | TI-AS Net By Net Holding LLC,RU
+8708    | 188.27.172.82    | RCS-RDS RCS & RDS SA,RO
+201630  | 185.77.129.54    | QHOSTER QHOSTER LTD.,BG
+133165  | 128.199.253.156  | DIGITALOCEAN-AS-AP Digital Ocean, Inc.,SG
+16125   | 85.204.74.189    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+17813   | 59.179.17.195    | MTNL-AP Mahanagar Telephone Nigam Ltd.,IN
+24940   | 176.9.25.72      | HETZNER-AS Hetzner Online AG,DE
+4224    | 162.247.72.212   | CALYX-AS - The Calyx Institute,US
+9105    | 212.159.143.81   | TISCALI-UK Tiscali UK,GB
+197922  | 185.13.38.185    | FIRSTHEBERG Techcrea Solutions Sarl,FR
+13030   | 77.109.141.138   | INIT7 Init7 (Switzerland) Ltd.,CH
+44734   | 91.199.197.76    | INTERCOM-AS Intercom Ltd,RU
+16509   | 54.153.75.229    | AMAZON-02 - Amazon.com, Inc.,US
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+1759    | 84.250.106.13    | TSF-IP-CORE TeliaSonera Finland Oyj,FI
+50542   | 5.165.69.118     | VORONEZH-AS CJSC _ER-Telecom Holding_,RU
+15594   | 82.116.120.3     | NETZQUADRAT netzquadrat GmbH,DE
+16276   | 92.222.69.188    | OVH OVH SAS,FR
+3223    | 37.221.162.226   | VOXILITY Voxility S.R.L.,RO
+39743   | 37.221.162.226   | VOXILITY-AS Voxility S.R.L.,RO
+47395   | 109.188.73.216   | SCARTEL-AS OJSC MegaFon,RU
+48635   | 92.63.174.38     | PCEXTREME PCextreme B.V.,NL
+46457   | 204.124.83.134   | CONFORMAL-SYSTEMS - Conformal Systems, LLC.,US
+21219   | 77.222.138.14    | DATAGROUP PRIVATE JOINT STOCK COMPANY _DATAGROUP_,UA
+4760    | 218.250.242.26   | HKTIMS-AP PCCW Limited,HK
+55053   | 167.88.40.63     | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+8972    | 188.138.1.229    | PLUSSERVER-AS PlusServer AG,DE
+8001    | 69.164.209.151   | NET-ACCESS-CORP - Net Access Corporation,US
+16276   | 37.187.2.229     | OVH OVH SAS,FR
+62639   | 162.218.208.132  | CRISSIC - Crissic Solutions, LLC,US
+36352   | 198.23.202.71    | AS-COLOCROSSING - ColoCrossing,US
+50673   | 46.249.37.143    | SERVERIUS-AS Serverius Holding B.V.,NL
+3223    | 109.163.234.9    | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.234.9    | VOXILITY-AS Voxility S.R.L.,RO
+16347   | 185.29.232.82    | RMI-FITECH ADISTA SAS,FR
+197422  | 89.234.157.254   | TETANEUTRAL-NET-AS Association TETANEUTRAL.NET,FR
+16086   | 82.181.159.251   | DNA DNA Oy,FI
+6939    | 173.255.210.205  | HURRICANE - Hurricane Electric, Inc.,US
+46652   | 37.139.3.171     | SERVERSTACK-ASN - ServerStack, Inc.,US
+8422    | 89.0.190.197     | NETCOLOGNE NetCologne GmbH,DE
+60478   | 185.31.100.75    | KSYS K-SYS SA,CH
+38478   | 117.18.75.235    | SUNNYVISION-AS-AP SunnyVision Limited,HK
+16276   | 5.135.186.32     | OVH OVH SAS,FR
+35366   | 81.89.96.89      | ISPPRO-AS ISPpro Internet KG,DE
+34168   | 31.28.196.33     | ELCOM-ISP-AS OJSC Rostelecom,RU
+200130  | 95.85.37.34      | DIGITALOCEAN-ASN-1 Digital Ocean, Inc.,EU
+201630  | 185.77.129.11    | QHOSTER QHOSTER LTD.,BG
+197019  | 31.31.74.64      | WEDOS WEDOS Internet, a.s.,CZ
+43289   | 178.175.139.142  | I.C.S. Trabia-Network S.R.L.,MD
+198599  | 212.114.47.52    | WEESLY Thomas Moehring trading as Weesly,DE
+25229   | 93.72.101.14     | VOLIA-AS Kyivski Telekomunikatsiyni Merezhi LLC,UA
+20773   | 46.163.76.250    | HOSTEUROPE-AS Host Europe GmbH,DE
+12876   | 62.210.254.239   | AS12876 ONLINE S.A.S.,FR
+6939    | 173.255.250.240  | HURRICANE - Hurricane Electric, Inc.,US
+46664   | 173.242.121.199  | VOLUMEDRIVE - VolumeDrive,US
+16276   | 92.222.65.128    | OVH OVH SAS,FR
+201630  | 185.77.129.222   | QHOSTER QHOSTER LTD.,BG
+12301   | 91.82.237.127    | INVITEL Invitel Tavkozlesi Zrt.,HU
+62000   | 149.91.82.222    | GRPPH-AS GROUPE PULSEHEBERG,FR
+4323    | 207.201.223.197  | TWTC - tw telecom holdings, inc.,US
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+196689  | 95.130.9.190     | DIGICUBE01 Digicube sas,FR
+11814   | 198.200.124.143  | DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+36375   | 35.0.127.52      | UMICH-AS-5 - University of Michigan,US
+42708   | 91.240.65.69     | PORTLANE Portlane AB,SE
+8972    | 188.138.1.229    | PLUSSERVER-AS PlusServer AG,DE
+6830    | 81.89.0.198      | LGI-UPC Liberty Global Operations B.V.,AT
+6659    | 195.180.11.196   | NEXINTO-DE Nexinto GmbH,DE
+2116    | 193.90.12.90     | ASN-CATCHCOM Broadnet AS,NO
+50613   | 193.107.85.62    | THORDC-AS THOR Data Center ehf,IS
+3223    | 109.163.234.5    | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.234.5    | VOXILITY-AS Voxility S.R.L.,RO
+16265   | 185.17.144.138   | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+58326   | 91.106.209.137   | FORT-IT Fort IT Services Ltd,CY
+16276   | 37.187.129.166   | OVH OVH SAS,FR
+13030   | 77.109.138.42    | INIT7 Init7 (Switzerland) Ltd.,CH
+16509   | 54.171.94.249    | AMAZON-02 - Amazon.com, Inc.,US
+2116    | 31.185.27.1      | ASN-CATCHCOM Broadnet AS,NO
+5577    | 94.242.251.112   | ROOT root SA,LU
+42730   | 178.254.8.50     | EVANZOAS EVANZO e-commerce GmbH,DE
+3265    | 82.161.223.137   | XS4ALL-NL XS4ALL Internet BV,NL
+15895   | 46.118.17.12     | KSNET-AS _Kyivstar_ PJSC,UA
+43289   | 178.175.139.140  | I.C.S. Trabia-Network S.R.L.,MD
+9066    | 213.252.140.118  | BCC Business Communication Company GmbH,DE
+60781   | 185.17.184.228   | LEASEWEB-NL LeaseWeb B.V.,NL
+6453    | 120.29.217.51    | AS6453 - TATA COMMUNICATIONS (AMERICA) INC,US
+6327    | 74.3.165.39      | SHAW - Shaw Communications Inc.,CA
+3301    | 217.210.165.43   | TELIANET-SWEDEN TeliaSonera AB,SE
+196689  | 95.130.9.190     | DIGICUBE01 Digicube sas,FR
+21502   | 81.64.128.222    | ASN-NUMERICABLE NUMERICABLE is a cable network operator in France, offering TV,VOICE and Internet services,FR
+3301    | 213.64.226.230   | TELIANET-SWEDEN TeliaSonera AB,SE
+2116    | 193.90.12.89     | ASN-CATCHCOM Broadnet AS,NO
+15659   | 84.48.61.141     | NEXTGENTEL NEXTGENTEL Autonomous System,NO
+6830    | 89.135.144.86    | LGI-UPC Liberty Global Operations B.V.,AT
+59587   | 151.232.237.129  | PJSCFARSTELECOMMUNICATIONCOMPANY PJSC _Fars Telecommunication Company_,IR
+31148   | 188.231.216.9    | FREENET-AS Freenet Ltd.,UA
+39351   | 193.138.216.101  | ESAB-AS 31173 Services AB,SE
+8001    | 173.255.226.204  | NET-ACCESS-CORP - Net Access Corporation,US
+31342   | 91.206.142.70    | EU-CLANOTOPIA Alvotech GmbH,DE
+46562   | 208.84.155.243   | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C.,US
+16276   | 5.135.158.101    | OVH OVH SAS,FR
+51395   | 176.10.99.202    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+41653   | 95.128.43.164    | AQUARAY Aqua Ray SAS,GB
+60781   | 85.17.24.95      | LEASEWEB-NL LeaseWeb B.V.,NL
+9121    | 85.110.159.208   | TTNET Turk Telekomunikasyon Anonim Sirketi,TR
+8972    | 85.25.103.119    | PLUSSERVER-AS PlusServer AG,DE
+2116    | 193.90.12.86     | ASN-CATCHCOM Broadnet AS,NO
+15497   | 62.149.12.153    | COLOCALL Internet Data Center _ColoCALL_,UA
+48031   | 91.213.8.43      | XSERVER-IP-NETWORK-AS PE Ivanov Vitaliy Sergeevich,UA
+3209    | 188.100.160.212  | VODANET Vodafone GmbH,DE
+48031   | 91.213.8.235     | XSERVER-IP-NETWORK-AS PE Ivanov Vitaliy Sergeevich,UA
+2119    | 85.226.244.31    | TELENOR-NEXTEL Telenor Norge AS,NO
+60781   | 37.48.78.159     | LEASEWEB-NL LeaseWeb B.V.,NL
+35592   | 89.187.142.208   | COOLHOUSING-AS COOLHOUSING Autonomous System,CZ
+2529    | 62.49.92.150     | DEMON-INTERNET Now maintained by Cable & Wireless Worldwide,GB
+30058   | 50.7.205.138     | FDCSERVERS - FDCservers.net,US
+201630  | 185.77.129.11    | QHOSTER QHOSTER LTD.,BG
+5432    | 80.200.25.153    | BELGACOM-SKYNET-AS BELGACOM S.A.,BE
+43350   | 77.247.181.165   | NFORCE NFOrce Entertainment BV,NL
+24961   | 217.79.181.50    | MYLOC-AS myLoc managed IT AG,DE
+62567   | 104.131.206.23   | DIGITALOCEAN-ASN-NY2 - Digital Ocean, Inc.,US
+15557   | 93.31.155.175    | LDCOMNET Societe Francaise du Radiotelephone S.A,FR
+12659   | 212.16.104.33    | BBNWKSCORE European Backbone Networks,FI
+46562   | 208.84.155.247   | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C.,US
+33490   | 67.189.79.20     | COMCAST-33490 - Comcast Cable Communications, Inc.,US
+16276   | 37.187.129.166   | OVH OVH SAS,FR
+21213   | 80.73.242.130    | CYBERSERVICE-AT CYBERSERVICE Internetdienstleistungs GmbH,AT
+2516    | 106.185.38.151   | KDDI KDDI CORPORATION,JP
+30836   | 94.199.51.101    | NET23-AS 23VNET Ltd.,HU
+50613   | 193.107.85.61    | THORDC-AS THOR Data Center ehf,IS
+8972    | 188.138.17.15    | PLUSSERVER-AS PlusServer AG,DE
+25091   | 46.20.246.117    | IP-MAX IP-Max SA,CH
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+52173   | 95.215.46.36     | MAKONIX Makonix SIA,LV
+24940   | 85.10.202.245    | HETZNER-AS Hetzner Online AG,DE
+13301   | 89.163.185.186   | UNITEDCOLO-AS United Gameserver GmbH,DE
+3595    | 192.155.95.222   | GNAXNET-AS - Global Net Access, LLC,US
+51852   | 179.43.152.240   | PLI-AS Private Layer INC,CH
+5563    | 79.135.70.90     | URAL CJSC Ural WES,RU
+33650   | 50.199.1.178     | COMCAST-33650 - Comcast Cable Communications, Inc.,US
+200130  | 188.226.189.53   | DIGITALOCEAN-ASN-1 Digital Ocean, Inc.,EU
+51395   | 176.10.99.204    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+8167    | 189.10.65.253    | Brasil Telecom S/A - Filial Distrito Federal,BR
+52048   | 46.183.220.132   | DATACLUB DataClub S.A.,LV
+49044   | 95.131.135.179   | DIGISK DIGI SLOVAKIA, s.r.o.,SK
+16276   | 167.114.152.13   | OVH OVH SAS,FR
+60781   | 95.211.81.104    | LEASEWEB-NL LeaseWeb B.V.,NL
+47066   | 71.19.157.127    | PRGMR - prgmr.com, Inc.,US
+12876   | 212.47.232.102   | AS12876 ONLINE S.A.S.,FR
+8283    | 94.142.241.241   | COLOCLUE-AS Netwerkvereniging Coloclue, Amsterdam, Netherlands,NL
+3223    | 109.163.234.4    | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.234.4    | VOXILITY-AS Voxility S.R.L.,RO
+24961   | 5.199.130.188    | MYLOC-AS myLoc managed IT AG,DE
+196689  | 95.130.11.147    | DIGICUBE01 Digicube sas,FR
+34240   | 89.238.77.4      | MANITU manitu GmbH,DE
+4224    | 162.247.72.27    | CALYX-AS - The Calyx Institute,US
+3209    | 92.78.128.70     | VODANET Vodafone GmbH,DE
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+16125   | 85.204.74.156    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+6939    | 72.52.91.19      | HURRICANE - Hurricane Electric, Inc.,US
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+2856    | 86.133.204.90    | BT-UK-AS BT Public Internet Service,GB
+3209    | 188.98.48.111    | VODANET Vodafone GmbH,DE
+7657    | 203.118.133.156  | VODAFONE-NZ-NGN-AS Vodafone NZ Ltd.,NZ
+16276   | 94.23.6.131      | OVH OVH SAS,FR
+27699   | 201.26.62.160    | TELEFÔNICA BRASIL S.A,BR
+36149   | 141.239.243.208  | HAWAIIAN-TELCOM - Hawaiian Telcom Services Company, Inc.,US
+36352   | 23.95.43.77      | AS-COLOCROSSING - ColoCrossing,US
+6724    | 85.214.146.66    | STRATO STRATO AG,DE
+33651   | 50.255.22.189    | CMCS - Comcast Cable Communications, Inc.,US
+4224    | 162.247.73.206   | CALYX-AS - The Calyx Institute,US
+24940   | 46.4.55.177      | HETZNER-AS Hetzner Online AG,DE
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+16276   | 198.50.150.90    | OVH OVH SAS,FR
+12876   | 62.210.37.82     | AS12876 ONLINE S.A.S.,FR
+3058    | 83.149.248.137   | RAS-AS Joint SuperComputer Center of the Russian Academy of Sciences,RU
+46664   | 104.255.64.26    | VOLUMEDRIVE - VolumeDrive,US
+3       | 18.187.1.68      | MIT-GATEWAYS - Massachusetts Institute of Technology,US
+39642   | 95.154.24.73     | DK-ESS-AS Syd Energi Bredbaand A/S,DK
+60781   | 85.17.172.161    | LEASEWEB-NL LeaseWeb B.V.,NL
+393406  | 104.236.100.82   | DIGITALOCEAN-ASN-NY3 - Digital Ocean, Inc.,US
+36024   | 72.249.185.100   | COLO4-CO - Colo4, LLC,US
+30217   | 66.230.230.230   | DESYNC - Desync Networks,US
+8943    | 85.119.83.44     | JUMP Jump Networks Ltd.,GB
+35366   | 81.89.96.88      | ISPPRO-AS ISPpro Internet KG,DE
+18779   | 178.18.17.204    | EGIHOSTING - EGIHosting,US
+16276   | 167.114.114.136  | OVH OVH SAS,FR
+63018   | 162.251.164.65   | LADEDICATED - Los Angeles Dedicated LLC,US
+6461    | 91.234.22.48     | ABOVENET - Abovenet Communications, Inc,US
+12876   | 195.154.97.160   | AS12876 ONLINE S.A.S.,FR
+15600   | 94.16.139.19     | FINECOM Quickline AG,CH
+41164   | 84.210.100.136   | GET-NO GET Norway,NO
+3462    | 60.248.162.179   | HINET Data Communication Business Group,TW
+60781   | 62.212.89.117    | LEASEWEB-NL LeaseWeb B.V.,NL
+13285   | 92.16.247.235    | OPALTELECOM-AS TalkTalk Communications Limited,GB
+12715   | 37.11.35.28      | JAZZNET Jazz Telecom S.A.,ES
+24940   | 88.198.175.76    | HETZNER-AS Hetzner Online AG,DE
+14061   | 192.241.199.208  | DIGITALOCEAN-ASN - Digital Ocean, Inc.,US
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+6939    | 64.62.233.34     | HURRICANE - Hurricane Electric, Inc.,US
+133165  | 128.199.247.148  | DIGITALOCEAN-AS-AP Digital Ocean, Inc.,SG
+6871    | 84.92.24.214     | PLUSNET PlusNet PLC,GB
+8100    | 96.44.189.100    | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+16509   | 52.68.94.85      | AMAZON-02 - Amazon.com, Inc.,US
+4224    | 162.247.72.217   | CALYX-AS - The Calyx Institute,US
+13037   | 82.69.50.50      | ZEN-AS Zen Internet Ltd,GB
+8100    | 96.44.189.102    | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+55053   | 104.167.118.51   | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+9       | 204.194.29.4     | CMU-ROUTER - Carnegie Mellon University,US
+5089    | 82.30.115.98     | NTL Virgin Media Limited,GB
+51395   | 176.10.99.203    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+36352   | 192.3.177.167    | AS-COLOCROSSING - ColoCrossing,US
+6830    | 80.99.254.115    | LGI-UPC Liberty Global Operations B.V.,AT
+16509   | 52.68.94.105     | AMAZON-02 - Amazon.com, Inc.,US
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+16276   | 37.59.63.190     | OVH OVH SAS,FR
+8075    | 104.42.138.73    | MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation,US
+43350   | 77.247.181.162   | NFORCE NFOrce Entertainment BV,NL
+36850   | 204.85.191.30    | UNC-CH - University of North Carolina at Chapel Hill,US
+52048   | 46.183.218.141   | DATACLUB DataClub S.A.,LV
+51395   | 176.10.99.208    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+51395   | 176.10.99.201    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+60781   | 95.211.229.158   | LEASEWEB-NL LeaseWeb B.V.,NL
+4922    | 24.149.73.3      | GLOBALCOM - Shentel Service Company,US
+8422    | 85.197.23.181    | NETCOLOGNE NetCologne GmbH,DE
+3223    | 109.163.235.246  | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.235.246  | VOXILITY-AS Voxility S.R.L.,RO
+57858   | 176.61.137.221   | AS57858 Inter Connects Inc,EE
+16125   | 85.204.74.156    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+2516    | 106.185.29.93    | KDDI KDDI CORPORATION,JP
+6939    | 23.92.26.114     | HURRICANE - Hurricane Electric, Inc.,US
+26046   | 129.123.7.7      | USU-EDU - Utah State University,US
+16276   | 91.121.100.200   | OVH OVH SAS,FR
+8972    | 217.172.190.19   | PLUSSERVER-AS PlusServer AG,DE
+30058   | 50.7.205.126     | FDCSERVERS - FDCservers.net,US
+15830   | 176.58.106.89    | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+14618   | 54.224.53.194    | AMAZON-AES - Amazon.com, Inc.,US
+12824   | 46.41.132.84     | HOMEPL-AS home.pl S.A.,PL
+60781   | 95.211.169.35    | LEASEWEB-NL LeaseWeb B.V.,NL
+39138   | 31.172.30.2      | OPENAP-WIRELESS-NETWORKS-AS rrbone UG (haftungsbeschraenkt),DE
+8615    | 77.41.44.176     | CNT-AS OJSC Central telegraph,RU
+20857   | 141.138.141.208  | TRANSIP-AS TransIP B.V.,NL
+3       | 18.238.2.85      | MIT-GATEWAYS - Massachusetts Institute of Technology,US
+30968   | 109.120.148.60   | INFOBOX-AS Infobox.ru Autonomous System,RU
+8220    | 213.61.149.100   | COLT COLT Technology Services Group Limited,GB
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+3215    | 86.211.69.45     | AS3215 Orange S.A.,FR
+17813   | 59.177.76.206    | MTNL-AP Mahanagar Telephone Nigam Ltd.,IN
+36352   | 23.95.31.56      | AS-COLOCROSSING - ColoCrossing,US
+1101    | 192.42.116.16    | IP-EEND-AS IP-EEND BV,NL
+48031   | 91.213.8.84      | XSERVER-IP-NETWORK-AS PE Ivanov Vitaliy Sergeevich,UA
+8371    | 149.62.23.164    | VIMPELCOM-NN OJSC _Vimpelcom_,RU
+18881   | 187.114.159.16   | Global Village Telecom,BR
+19355   | 209.234.102.238  | SMRN-NET - San Mateo Regional Network, Inc.,US
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+15557   | 84.103.74.87     | LDCOMNET Societe Francaise du Radiotelephone S.A,FR
+15626   | 46.28.68.158     | ITLAS ITL Company,UA
+8684    | 212.192.74.101   | PSU-AS State Educational Institution of Higher Professional Education _Perm State University_,RU
+5577    | 94.242.198.164   | ROOT root SA,LU
+1102    | 192.87.28.82     | SMEERBOEL-AS SMEERBOEL BV,EU
+2516    | 106.185.49.133   | KDDI KDDI CORPORATION,JP
+8100    | 96.47.226.21     | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+25653   | 65.181.113.136   | FORTRESSITX - FortressITX,US
+36352   | 23.95.38.135     | AS-COLOCROSSING - ColoCrossing,US
+16276   | 94.23.252.31     | OVH OVH SAS,FR
+30266   | 216.17.110.252   | A1COLO-COM - A1COLO.COM,US
+4224    | 162.247.72.213   | CALYX-AS - The Calyx Institute,US
+24875   | 89.105.197.130   | AVIRA-AS Avira B.V.,NL
+196689  | 95.130.15.98     | DIGICUBE01 Digicube sas,FR
+198310  | 37.0.124.156     | PALLADA-AS Pallada Web Service LLC,RU
+33287   | 68.82.172.161    | COMCAST-33287 - Comcast Cable Communications, Inc.,US
+55053   | 167.88.41.187    | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+6939    | 216.218.216.194  | HURRICANE - Hurricane Electric, Inc.,US
+3320    | 79.219.240.207   | DTAG Deutsche Telekom AG,DE
+44684   | 46.235.227.70    | MYTHIC Mythic Beasts Ltd,GB
+31019   | 91.228.151.52    | MEANIE Meanie,NL
+3243    | 85.242.66.238    | MEO-RESIDENCIAL MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,PT
+196689  | 95.130.15.96     | DIGICUBE01 Digicube sas,FR
+11878   | 191.101.2.235    | TZULO - tzulo, inc.,US
+31103   | 87.118.84.181    | KEYWEB-AS Keyweb AG,DE
+13030   | 77.109.139.27    | INIT7 Init7 (Switzerland) Ltd.,CH
+6830    | 85.127.10.232    | LGI-UPC Liberty Global Operations B.V.,AT
+202018  | 188.166.18.80    | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+51167   | 213.136.75.42    | CONTABO Contabo GmbH,DE
+16265   | 178.162.193.213  | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+60781   | 37.48.65.122     | LEASEWEB-NL LeaseWeb B.V.,NL
+16509   | 52.68.54.232     | AMAZON-02 - Amazon.com, Inc.,US
+6830    | 178.48.213.34    | LGI-UPC Liberty Global Operations B.V.,AT
+6830    | 81.89.0.204      | LGI-UPC Liberty Global Operations B.V.,AT
+12337   | 213.95.21.54     | NORIS-NETWORK noris network AG,DE
+22772   | 204.17.56.42     | LOGIN - Login, Inc.,US
+16509   | 52.17.31.171     | AMAZON-02 - Amazon.com, Inc.,US
+60781   | 85.17.132.245    | LEASEWEB-NL LeaseWeb B.V.,NL
+50613   | 193.107.85.56    | THORDC-AS THOR Data Center ehf,IS
+8220    | 213.61.149.100   | COLT COLT Technology Services Group Limited,GB
+36352   | 23.95.43.75      | AS-COLOCROSSING - ColoCrossing,US
+13188   | 159.224.57.168   | BANKINFORM-AS CONTENT DELIVERY NETWORK LTD,UA
+16265   | 46.165.221.166   | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+48031   | 91.213.8.236     | XSERVER-IP-NETWORK-AS PE Ivanov Vitaliy Sergeevich,UA
+35366   | 91.143.92.178    | ISPPRO-AS ISPpro Internet KG,DE
+15830   | 176.58.97.201    | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+3320    | 93.193.182.175   | DTAG Deutsche Telekom AG,DE
+35549   | 212.92.219.15    | METRONET-AS Metronet telekomunikacije d.d.,HR
+16086   | 85.23.243.147    | DNA DNA Oy,FI
+11051   | 66.172.10.67     | CYBERVERSE - Cyberverse, Inc.,US
+31117   | 87.244.252.104   | ENERGOTEL-AS Energotel, a.s.,SK
+60781   | 5.79.68.161      | LEASEWEB-NL LeaseWeb B.V.,NL
+51167   | 178.238.237.44   | CONTABO Contabo GmbH,DE
+197422  | 89.234.157.254   | TETANEUTRAL-NET-AS Association TETANEUTRAL.NET,FR
+197019  | 37.157.195.83    | WEDOS WEDOS Internet, a.s.,CZ
+38197   | 121.54.175.50    | SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited,HK
+3223    | 109.163.235.228  | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.235.228  | VOXILITY-AS Voxility S.R.L.,RO
+5483    | 195.228.75.131   | HTC-AS Magyar Telekom Plc.,HU
+8001    | 69.164.214.250   | NET-ACCESS-CORP - Net Access Corporation,US
+30083   | 209.126.110.112  | SERVER4YOU - Hosting Solutions International, Inc.,US
+50989   | 178.16.208.57    | SITABINFRA-NORDIC-AS SITAB Infrastruktur,NO
+16276   | 192.99.2.137     | OVH OVH SAS,FR
+12876   | 62.210.254.239   | AS12876 ONLINE S.A.S.,FR
+42695   | 141.255.189.161  | CNHAB City Network Hosting AB,SE
+5617    | 83.28.207.151    | TPNET Orange Polska Spolka Akcyjna,PL
+34168   | 84.53.203.38     | ELCOM-ISP-AS OJSC Rostelecom,RU
+36352   | 23.95.43.73      | AS-COLOCROSSING - ColoCrossing,US
+111     | 204.8.156.142    | BOSTONU-AS - Boston University,US
+6739    | 82.213.159.75    | ONO-AS Cableuropa - ONO,ES
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+30722   | 93.64.207.55     | VODAFONE-IT-ASN Vodafone Omnitel B.V.,IT
+1759    | 88.195.207.117   | TSF-IP-CORE TeliaSonera Finland Oyj,FI
+7015    | 66.31.208.246    | COMCAST-7015 - Comcast Cable Communications Holdings, Inc,US
+25577   | 84.45.76.12      | C4L-AS Connexions4London Ltd,GB
+8416    | 81.23.191.243    | INFOLINE-AS Infoline Ltd.,RU
+33984   | 78.111.78.140    | SURFPLANET-AS Surfplanet GmbH,DE
+33588   | 69.145.3.177     | BRESNAN-AS - Charter Communications,US
+60781   | 212.7.194.71     | LEASEWEB-NL LeaseWeb B.V.,NL
+3320    | 87.146.197.20    | DTAG Deutsche Telekom AG,DE
+2119    | 213.113.213.190  | TELENOR-NEXTEL Telenor Norge AS,NO
+52048   | 46.183.219.196   | DATACLUB DataClub S.A.,LV
+25229   | 93.73.186.52     | VOLIA-AS Kyivski Telekomunikatsiyni Merezhi LLC,UA
+6830    | 46.167.245.51    | LGI-UPC Liberty Global Operations B.V.,AT
+2119    | 84.219.143.225   | TELENOR-NEXTEL Telenor Norge AS,NO
+36436   | 199.115.205.245  | INFOBUNKER - Infobunker, L.L.C.,US
+7725    | 50.76.159.218    | COMCAST-7725 - Comcast Cable Communications Holdings, Inc,US
+14618   | 52.0.232.151     | AMAZON-AES - Amazon.com, Inc.,US
+4713    | 123.226.214.157  | OCN NTT Communications Corporation,JP
+202018  | 178.62.217.233   | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+3       | 18.238.1.85      | MIT-GATEWAYS - Massachusetts Institute of Technology,US
+8866    | 95.42.126.167    | BTC-AS Bulgarian Telecommunication Company Plc.,BG
+12322   | 78.208.60.125    | PROXAD Free SAS,FR
+5410    | 213.44.88.234    | ASN-BOUYGTEL-ISP Bouygues Telecom S.A.,FR
+29169   | 95.142.161.63    | GANDI-AS Gandi SAS,FR
+60781   | 37.48.120.196    | LEASEWEB-NL LeaseWeb B.V.,NL
+20473   | 108.61.199.202   | AS-CHOOPA - Choopa, LLC,US
+47692   | 77.244.254.227   | NESSUS Nessus GmbH,AT
+3265    | 193.110.157.151  | XS4ALL-NL XS4ALL Internet BV,NL
+51013   | 195.210.29.124   | WEBSUPPORT-SRO-SK-AS Websupport s.r.o.,SK
+43350   | 109.201.137.163  | NFORCE NFOrce Entertainment BV,NL
+30083   | 69.64.52.48      | SERVER4YOU - Hosting Solutions International, Inc.,US
+16276   | 91.121.21.224    | OVH OVH SAS,FR
+9143    | 94.210.0.28      | ZIGGO Ziggo B.V.,NL
+59469   | 94.126.178.1     | SOLIDO-NETWORKS Solido Networks ApS,DK
+197019  | 37.157.192.208   | WEDOS WEDOS Internet, a.s.,CZ
+39651   | 83.251.91.222    | COMHEM-SWEDEN Com Hem AB,SE
+16276   | 167.114.113.46   | OVH OVH SAS,FR
+24971   | 80.78.242.81     | MASTER-AS Master Internet s.r.o,CZ
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+55053   | 104.167.104.205  | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+197328  | 185.4.227.34     | INETLTD INTER NET BILGISAYAR TURIZM TIC LTD STI,TR
+36351   | 72.14.179.10     | SOFTLAYER - SoftLayer Technologies Inc.,US
+10929   | 68.71.46.138     | NETELLIGENT - Netelligent Hosting Services Inc.,CA
+200130  | 5.101.101.233    | DIGITALOCEAN-ASN-1 Digital Ocean, Inc.,EU
+13354   | 108.166.168.158  | ASN-EBLGLOBAL - EBL Global Networks, Inc.,US
+46652   | 146.185.177.103  | SERVERSTACK-ASN - ServerStack, Inc.,US
+8972    | 85.25.9.11       | PLUSSERVER-AS PlusServer AG,DE
+12322   | 78.193.103.77    | PROXAD Free SAS,FR
+6830    | 81.89.0.195      | LGI-UPC Liberty Global Operations B.V.,AT
+16509   | 52.8.62.153      | AMAZON-02 - Amazon.com, Inc.,US
+38987   | 62.133.130.105   | OST-AS Spoldzielnia Telekomunikacyjna OST,PL
+31078   | 217.115.10.132   | NETSIGN Netsign Networks GmbH,DE
+17216   | 198.37.114.36    | DC74-AS - DC74 LLC,US
+8100    | 96.47.226.22     | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+3303    | 178.199.245.179  | SWISSCOM Swisscom (Switzerland) Ltd,CH
+16276   | 37.187.51.210    | OVH OVH SAS,FR
+8972    | 188.138.1.229    | PLUSSERVER-AS PlusServer AG,DE
+198093  | 171.25.193.77    | DFRI-AS Foreningen for digitala fri- och rattigheter,SE
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+43289   | 178.175.139.139  | I.C.S. Trabia-Network S.R.L.,MD
+196689  | 95.130.9.89      | DIGICUBE01 Digicube sas,FR
+29169   | 46.226.110.185   | GANDI-AS Gandi SAS,FR
+5483    | 81.182.162.230   | HTC-AS Magyar Telekom Plc.,HU
+6939    | 74.207.248.110   | HURRICANE - Hurricane Electric, Inc.,US
+5610    | 90.176.164.143   | O2-CZECH-REPUBLIC O2 Czech Republic, a.s.,CZ
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+16509   | 52.68.75.110     | AMAZON-02 - Amazon.com, Inc.,US
+11814   | 198.91.161.109   | DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+47692   | 77.244.254.230   | NESSUS Nessus GmbH,AT
+63157   | 104.232.1.100    | AS-NEWFX - NewFX Labs, Inc.,US
+42610   | 5.228.195.25     | NCNET-AS OJSC Rostelecom,RU
+8001    | 173.255.226.142  | NET-ACCESS-CORP - Net Access Corporation,US
+16509   | 54.94.241.168    | AMAZON-02 - Amazon.com, Inc.,US
+198093  | 171.25.193.78    | DFRI-AS Foreningen for digitala fri- och rattigheter,SE
+30083   | 209.126.110.112  | SERVER4YOU - Hosting Solutions International, Inc.,US
+50821   | 46.39.102.2      | ASHPDC Stockholms Stadsnat AB,SE
+3       | 128.52.128.105   | MIT-GATEWAYS - Massachusetts Institute of Technology,US
+30083   | 209.126.110.113  | SERVER4YOU - Hosting Solutions International, Inc.,US
+55053   | 167.88.40.152    | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+3223    | 37.221.165.229   | VOXILITY Voxility S.R.L.,RO
+39743   | 37.221.165.229   | VOXILITY-AS Voxility S.R.L.,RO
+2516    | 106.185.28.25    | KDDI KDDI CORPORATION,JP
+4766    | 183.107.37.49    | KIXS-AS-KR Korea Telecom,KR
+24940   | 85.10.210.199    | HETZNER-AS Hetzner Online AG,DE
+3223    | 37.221.161.37    | VOXILITY Voxility S.R.L.,RO
+39743   | 37.221.161.37    | VOXILITY-AS Voxility S.R.L.,RO
+13213   | 91.109.247.173   | UK2NET-AS UK2 - Ltd,GB
+5410    | 128.79.53.244    | ASN-BOUYGTEL-ISP Bouygues Telecom S.A.,FR
+21502   | 81.220.199.113   | ASN-NUMERICABLE NUMERICABLE is a cable network operator in France, offering TV,VOICE and Internet services,FR
+4224    | 162.247.72.200   | CALYX-AS - The Calyx Institute,US
+43289   | 178.175.128.50   | I.C.S. Trabia-Network S.R.L.,MD
+16125   | 85.204.74.120    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+51395   | 176.10.99.207    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+8972    | 62.75.150.23     | PLUSSERVER-AS PlusServer AG,DE
+60781   | 95.211.81.104    | LEASEWEB-NL LeaseWeb B.V.,NL
+8972    | 62.75.187.147    | PLUSSERVER-AS PlusServer AG,DE
+24940   | 178.63.97.34     | HETZNER-AS Hetzner Online AG,DE
+8283    | 94.142.245.231   | COLOCLUE-AS Netwerkvereniging Coloclue, Amsterdam, Netherlands,NL
+43808   | 91.200.85.68     | USS-AS OOO Polyus Dostupa,RU
+16637   | 105.237.212.162  | MTNNS-AS,ZA
+13030   | 77.109.139.87    | INIT7 Init7 (Switzerland) Ltd.,CH
+6830    | 81.89.0.197      | LGI-UPC Liberty Global Operations B.V.,AT
+44068   | 94.26.140.150    | ARBITAL-AS Style-Com,RU
+16276   | 91.121.104.168   | OVH OVH SAS,FR
+16276   | 37.187.38.147    | OVH OVH SAS,FR
+24940   | 176.9.145.194    | HETZNER-AS Hetzner Online AG,DE
+47692   | 77.244.254.228   | NESSUS Nessus GmbH,AT
+16276   | 87.98.178.61     | OVH OVH SAS,FR
+198310  | 37.0.123.207     | PALLADA-AS Pallada Web Service LLC,RU
+6830    | 81.89.0.196      | LGI-UPC Liberty Global Operations B.V.,AT
+16276   | 37.187.109.111   | OVH OVH SAS,FR
+202018  | 188.166.43.33    | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+15154   | 64.113.44.206    | SBBSNET - Specialized Bulletin Board Systems,US
+51395   | 176.10.99.203    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+16265   | 46.165.223.217   | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+13030   | 77.109.138.42    | INIT7 Init7 (Switzerland) Ltd.,CH
+719     | 84.231.107.177   | ELISA-AS Elisa Oyj,FI
+6830    | 81.89.0.201      | LGI-UPC Liberty Global Operations B.V.,AT
+6461    | 50.7.71.92       | ABOVENET - Abovenet Communications, Inc,US
+201630  | 185.77.129.145   | QHOSTER QHOSTER LTD.,BG
+16276   | 37.187.7.74      | OVH OVH SAS,FR
+4844    | 210.23.2.30      | SUPERINTERNET-AS-AP SuperInternet ACCESS Pte Ltd,SG
+12322   | 78.248.215.89    | PROXAD Free SAS,FR
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+20521   | 95.131.234.2     | ASN-BELLNET Bellnet Ltd.,MT
+63157   | 104.232.3.33     | AS-NEWFX - NewFX Labs, Inc.,US
+52201   | 46.38.57.196     | TCTEL LLC _TC TEL_,RU
+60118   | 176.126.252.11   | ALISTAR-AS ALISTAR SECURITY SRL,RO
+35366   | 81.7.8.101       | ISPPRO-AS ISPpro Internet KG,DE
+3301    | 90.227.65.227    | TELIANET-SWEDEN TeliaSonera AB,SE
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+21502   | 85.69.93.46      | ASN-NUMERICABLE NUMERICABLE is a cable network operator in France, offering TV,VOICE and Internet services,FR
+201630  | 185.77.129.241   | QHOSTER QHOSTER LTD.,BG
+60781   | 95.211.81.104    | LEASEWEB-NL LeaseWeb B.V.,NL
+50512   | 5.166.91.104     | BARNAUL-AS CJSC _ER-Telecom Holding_,RU
+201630  | 185.77.129.145   | QHOSTER QHOSTER LTD.,BG
+12741   | 213.146.55.22    | AS-NETIA Netia SA,PL
+4224    | 162.247.72.199   | CALYX-AS - The Calyx Institute,US
+31983   | 130.15.20.217    | QUEENSU-KINGSTON - Queen_s University,CA
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+16276   | 37.187.105.7     | OVH OVH SAS,FR
+3209    | 94.223.10.100    | VODANET Vodafone GmbH,DE
+250     | 194.150.168.95   | SACREDCHAO-AS AS250.net Foundation,DE
+3320    | 84.132.37.100    | DTAG Deutsche Telekom AG,DE
+30083   | 209.126.110.113  | SERVER4YOU - Hosting Solutions International, Inc.,US
+26046   | 129.123.7.7      | USU-EDU - Utah State University,US
+3223    | 109.163.234.2    | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.234.2    | VOXILITY-AS Voxility S.R.L.,RO
+9198    | 89.218.16.7      | KAZTELECOM-AS JSC Kazakhtelecom,KZ
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+3320    | 79.210.194.78    | DTAG Deutsche Telekom AG,DE
+43289   | 178.175.131.194  | I.C.S. Trabia-Network S.R.L.,MD
+43289   | 178.17.170.19    | I.C.S. Trabia-Network S.R.L.,MD
+60781   | 85.17.132.246    | LEASEWEB-NL LeaseWeb B.V.,NL
+20676   | 92.195.2.230     | QSC-1 QSC AG,DE
+30058   | 50.7.205.140     | FDCSERVERS - FDCservers.net,US
+50673   | 185.14.29.221    | SERVERIUS-AS Serverius Holding B.V.,NL
+3209    | 178.6.87.4       | VODANET Vodafone GmbH,DE
+31334   | 31.16.50.142     | KABELDEUTSCHLAND-AS Kabel Deutschland Vertrieb und Service GmbH,DE
+18451   | 199.87.154.255   | ASN-LES - LES.NET,CA
+13030   | 77.109.141.138   | INIT7 Init7 (Switzerland) Ltd.,CH
+16276   | 5.196.14.234     | OVH OVH SAS,FR
+3       | 18.243.0.30      | MIT-GATEWAYS - Massachusetts Institute of Technology,US
+60781   | 5.79.68.161      | LEASEWEB-NL LeaseWeb B.V.,NL
+29802   | 68.233.235.217   | HVC-AS - HIVELOCITY VENTURES CORP,US
+7018    | 71.135.40.121    | ATT-INTERNET4 - AT&T Services, Inc.,US
+5421    | 62.44.127.184    | SU-NET-AS Sofia University _St. Kliment Ohridski_,BG
+51395   | 176.10.99.209    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+63157   | 104.232.1.99     | AS-NEWFX - NewFX Labs, Inc.,US
+224     | 128.39.142.20    | UNINETT UNINETT, The Norwegian University & Research Network,NO
+46652   | 198.211.122.191  | SERVERSTACK-ASN - ServerStack, Inc.,US
+43289   | 178.175.139.141  | I.C.S. Trabia-Network S.R.L.,MD
+55053   | 162.248.143.41   | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+43350   | 185.47.200.121   | NFORCE NFOrce Entertainment BV,NL
+3320    | 93.211.252.202   | DTAG Deutsche Telekom AG,DE
+13354   | 108.166.161.186  | ASN-EBLGLOBAL - EBL Global Networks, Inc.,US
+46652   | 146.185.150.219  | SERVERSTACK-ASN - ServerStack, Inc.,US
+201630  | 185.77.129.133   | QHOSTER QHOSTER LTD.,BG
+13030   | 77.109.139.27    | INIT7 Init7 (Switzerland) Ltd.,CH
+29073   | 94.102.53.177    | ECATEL-AS AS29073, Ecatel Network,NL
+17439   | 103.240.91.7     | NETMAGIC-AP Netmagic Datacenter Mumbai,IN
+25899   | 98.142.47.54     | LSNET - LS Networks,US
+31103   | 87.118.112.173   | KEYWEB-AS Keyweb AG,DE
+9304    | 118.141.3.55     | HUTCHISON-AS-AP Hutchison Global Communications,HK
+8100    | 96.47.226.20     | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+37560   | 197.231.221.211  | CYBERDYNE,LR
+16276   | 167.114.114.209  | OVH OVH SAS,FR
+12093   | 198.96.155.3     | UWATERLOO - University of Waterloo,CA
+8304    | 87.252.5.163     | ECRITEL-FRANCE ECRITEL Company,FR
+42610   | 188.255.30.36    | NCNET-AS OJSC Rostelecom,RU
+5577    | 94.242.254.81    | ROOT root SA,LU
+11427   | 70.114.27.194    | SCRR-11427 - Time Warner Cable Internet LLC,US
+51395   | 176.10.99.209    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+7543    | 125.255.2.30     | PI-AU Pacific Internet (Australia) Pty Ltd,JP
+16125   | 85.204.74.189    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+60496   | 94.77.131.132    | KR-ROSTOV Mobile TeleSystems Open Joint Stock Company,RU
+49367   | 94.198.100.17    | ASSEFLOW Seflow S.N.C. Di Marco Brame_ & C.,IT
+3292    | 2.111.64.26      | TDC TDC A/S,DK
+36236   | 208.111.35.80    | VR-HOSTED - Host Virtual, Inc,US
+9116    | 212.117.143.74   | GOLDENLINES-ASN 012 Smile Communications Ltd.,IL
+16276   | 5.196.1.129      | OVH OVH SAS,FR
+6130    | 64.87.19.244     | AIS-WEST - American Internet Services, LLC.,US
+9009    | 89.46.100.13     | M247 M247 Ltd,BE
+43350   | 77.247.181.163   | NFORCE NFOrce Entertainment BV,NL
+49544   | 89.207.133.55    | INTERACTIVE3D i3d B.V.,NL
+2516    | 106.187.99.148   | KDDI KDDI CORPORATION,JP
+29321   | 217.195.170.145  | CENTRONETAS Centronet, a.s.,CH
+2856    | 217.34.135.231   | BT-UK-AS BT Public Internet Service,GB
+12876   | 62.210.170.27    | AS12876 ONLINE S.A.S.,FR
+36352   | 23.95.112.192    | AS-COLOCROSSING - ColoCrossing,US
+8708    | 5.2.138.119      | RCS-RDS RCS & RDS SA,RO
+2119    | 85.166.130.189   | TELENOR-NEXTEL Telenor Norge AS,NO
+51395   | 176.10.99.205    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+16509   | 54.66.230.8      | AMAZON-02 - Amazon.com, Inc.,US
+13030   | 77.109.138.42    | INIT7 Init7 (Switzerland) Ltd.,CH
+7015    | 71.235.74.183    | COMCAST-7015 - Comcast Cable Communications Holdings, Inc,US
+42610   | 109.173.59.180   | NCNET-AS OJSC Rostelecom,RU
+47172   | 213.108.105.253  | GREENHOST Greenhost BV,NL
+24466   | 103.6.213.198    | HDNETNZ hd.net.nz,NZ
+3223    | 109.163.234.7    | VOXILITY Voxility S.R.L.,RO
+39743   | 109.163.234.7    | VOXILITY-AS Voxility S.R.L.,RO
+58073   | 37.220.35.144    | YISP-AS YISP B.V.,NL
+6315    | 166.70.15.14     | XMISSION - XMission, L.C.,US
+29182   | 188.120.253.39   | ISPSYSTEM-AS ISPsystem, cjsc,LU
+44306   | 213.186.7.232    | OMONIA Omonia d.o.o.,HR
+13030   | 77.109.139.27    | INIT7 Init7 (Switzerland) Ltd.,CH
+5577    | 94.242.254.81    | ROOT root SA,LU
+278     | 132.248.30.12    | Universidad Nacional Autonoma de Mexico,MX
+48635   | 89.18.174.149    | PCEXTREME PCextreme B.V.,NL
+30058   | 50.7.205.131     | FDCSERVERS - FDCservers.net,US
+32748   | 69.162.139.9     | STEADFAST - Steadfast Networks,US
+16276   | 37.187.114.36    | OVH OVH SAS,FR
+50618   | 178.20.55.18     | LIAZO Liazo SARL,FR
+20115   | 75.133.103.237   | CHARTER-NET-HKY-NC - Charter Communications,US
+16276   | 5.135.85.23      | OVH OVH SAS,FR
+38895   | 52.74.5.68       | AMAZON-AS-AP Amazon.com Tech Telecom,JP
+50613   | 193.107.85.57    | THORDC-AS THOR Data Center ehf,IS
+18881   | 177.99.132.123   | Global Village Telecom,BR
+8100    | 173.254.216.69   | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+12715   | 188.78.208.39    | JAZZNET Jazz Telecom S.A.,ES
+24961   | 193.111.136.162  | MYLOC-AS myLoc managed IT AG,DE
+55053   | 104.167.102.244  | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+55053   | 162.219.2.177    | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+36352   | 23.95.43.76      | AS-COLOCROSSING - ColoCrossing,US
+20473   | 209.222.8.196    | AS-CHOOPA - Choopa, LLC,US
+197922  | 185.13.37.158    | FIRSTHEBERG Techcrea Solutions Sarl,FR
+7029    | 173.187.235.44   | WINDSTREAM - Windstream Communications Inc,US
+17098   | 8.28.87.108      | BROWNRICE-INTERNET-1 - Brownrice Internet, Inc.,US
+30083   | 209.126.110.112  | SERVER4YOU - Hosting Solutions International, Inc.,US
+13193   | 80.248.208.131   | ASN-NERIM Nerim SAS,FR
+16265   | 5.61.34.63       | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+29562   | 149.172.250.74   | KABELBW-ASN Kabel BW GmbH,DE
+16125   | 85.204.74.104    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+13213   | 37.130.227.133   | UK2NET-AS UK2 - Ltd,GB
+8972    | 85.25.95.19      | PLUSSERVER-AS PlusServer AG,DE
+8402    | 78.107.237.16    | CORBINA-AS OJSC _Vimpelcom_,RU
+16276   | 94.23.30.53      | OVH OVH SAS,FR
+10318   | 190.16.97.103    | CABLEVISION S.A.,AR
+31400   | 84.200.12.61     | ACCELERATED-IT Accelerated IT Services GmbH,DE
+5577    | 94.242.252.41    | ROOT root SA,LU
+8560    | 212.227.38.247   | ONEANDONE-AS 1&1 Internet AG,DE
+51852   | 185.12.46.132    | PLI-AS Private Layer INC,CH
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+11051   | 66.180.193.219   | CYBERVERSE - Cyberverse, Inc.,US
+49455   | 188.113.114.120  | LOQAL-AS Loqal AS,NO
+16652   | 199.254.238.44   | RISEUP - Riseup Networks,US
+3269    | 95.252.137.232   | ASN-IBSNAZ Telecom Italia S.p.a.,IT
+16276   | 192.99.124.96    | OVH OVH SAS,FR
+9916    | 140.113.110.11   | NCTU-TW National Chiao Tung University,TW
+30962   | 93.190.88.153    | COMTRANCE-AS comtrance GmbH,DE
+16125   | 85.204.74.120    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+62567   | 162.243.248.120  | DIGITALOCEAN-ASN-NY2 - Digital Ocean, Inc.,US
+6921    | 69.85.93.59      | ARACHNITEC - Arachnitec, INC.,US
+8972    | 85.25.148.130    | PLUSSERVER-AS PlusServer AG,DE
+2527    | 223.134.36.137   | SO-NET So-net Entertainment Corporation,JP
+13354   | 108.166.168.158  | ASN-EBLGLOBAL - EBL Global Networks, Inc.,US
+9371    | 49.212.194.113   | SAKURA-C SAKURA Internet Inc.,JP
+42610   | 188.255.112.224  | NCNET-AS OJSC Rostelecom,RU
+8560    | 217.160.24.166   | ONEANDONE-AS 1&1 Internet AG,DE
+42174   | 91.234.226.35    | SIPCOM-NET Sipcom Ltd.,CZ
+6739    | 81.184.34.216    | ONO-AS Cableuropa - ONO,ES
+55772   | 110.93.23.170    | IE3-AU IE3 Communications,AU
+12676   | 213.9.93.174     | NCORE-AS HKN GmbH,DE
+20115   | 75.139.128.100   | CHARTER-NET-HKY-NC - Charter Communications,US
+15003   | 23.80.226.2      | NOBIS-TECH - Nobis Technology Group, LLC,US
+224     | 128.39.142.21    | UNINETT UNINETT, The Norwegian University & Research Network,NO
+8001    | 207.192.69.165   | NET-ACCESS-CORP - Net Access Corporation,US
+29073   | 89.248.166.121   | ECATEL-AS AS29073, Ecatel Network,NL
+5607    | 87.81.139.118    | BSKYB-BROADBAND-AS British Sky Broadcasting Limited,GB
+6939    | 66.220.3.179     | HURRICANE - Hurricane Electric, Inc.,US
+46652   | 192.34.59.48     | SERVERSTACK-ASN - ServerStack, Inc.,US
+33785   | 41.223.53.141    | CITYNET,EG
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+29073   | 80.82.64.29      | ECATEL-AS AS29073, Ecatel Network,NL
+15895   | 37.229.80.58     | KSNET-AS _Kyivstar_ PJSC,UA
+12337   | 213.95.21.59     | NORIS-NETWORK noris network AG,DE
+20454   | 66.85.131.72     | SSASN2 - SECURED SERVERS LLC,US
+11427   | 65.31.206.2      | SCRR-11427 - Time Warner Cable Internet LLC,US
+25653   | 65.181.113.89    | FORTRESSITX - FortressITX,US
+24940   | 78.46.66.41      | HETZNER-AS Hetzner Online AG,DE
+55053   | 162.248.11.176   | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+12271   | 24.90.197.246    | SCRR-12271 - Time Warner Cable Internet LLC,US
+36351   | 69.164.207.234   | SOFTLAYER - SoftLayer Technologies Inc.,US
+21219   | 77.222.132.105   | DATAGROUP PRIVATE JOINT STOCK COMPANY _DATAGROUP_,UA
+1426    | 199.68.196.124   | LIGHTWAVENET - Lightwave Networking, LLC,US
+8972    | 188.138.9.49     | PLUSSERVER-AS PlusServer AG,DE
+8100    | 173.254.216.68   | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+46562   | 107.181.174.84   | TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C.,US
+202018  | 178.62.248.119   | DIGITALOCEAN-ASN-3 Digital Ocean, Inc.,NL
+5645    | 198.84.249.106   | TEKSAVVY - TekSavvy Solutions, Inc.,CA
+31246   | 83.240.66.166    | NETBOX-AS SMART Comp. a.s.,CZ
+60781   | 37.48.115.224    | LEASEWEB-NL LeaseWeb B.V.,NL
+133165  | 128.199.205.242  | DIGITALOCEAN-AS-AP Digital Ocean, Inc.,SG
+16276   | 5.135.152.208    | OVH OVH SAS,FR
+46652   | 146.185.143.144  | SERVERSTACK-ASN - ServerStack, Inc.,US
+9143    | 83.83.82.180     | ZIGGO Ziggo B.V.,NL
+3301    | 78.70.166.134    | TELIANET-SWEDEN TeliaSonera AB,SE
+9044    | 82.220.74.167    | SOLNET BSE Software GmbH,CH
+51945   | 37.122.252.9     | CONNETU ConnetU Ltd.,GB
+3223    | 37.221.162.226   | VOXILITY Voxility S.R.L.,RO
+39743   | 37.221.162.226   | VOXILITY-AS Voxility S.R.L.,RO
+58073   | 37.220.35.61     | YISP-AS YISP B.V.,NL
+16276   | 198.50.200.135   | OVH OVH SAS,FR
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+46      | 128.6.224.107    | RUTGERS - Rutgers University,US
+39389   | 185.34.33.2      | CURSYS-MAIN Cursys Sarl,FR
+5607    | 87.81.148.61     | BSKYB-BROADBAND-AS British Sky Broadcasting Limited,GB
+1103    | 195.169.125.226  | SURFNET-NL SURFnet, The Netherlands,NL
+25653   | 65.181.127.118   | FORTRESSITX - FortressITX,US
+196752  | 37.252.127.221   | TILAA Tilaa B.V.,NL
+8972    | 85.25.149.191    | PLUSSERVER-AS PlusServer AG,DE
+20857   | 149.210.171.70   | TRANSIP-AS TransIP B.V.,NL
+202109  | 178.62.80.124    | DIGITALOCEAN-ASN-2 Digital Ocean, Inc.,GB
+25577   | 84.45.76.13      | C4L-AS Connexions4London Ltd,GB
+5617    | 79.191.198.167   | TPNET Orange Polska Spolka Akcyjna,PL
+32220   | 24.233.74.111    | ASN-BELD - Braintree Electric Light Dept.,US
+13285   | 92.20.133.227    | OPALTELECOM-AS TalkTalk Communications Limited,GB
+62752   | 198.51.75.165    | ATHOMPSO - Adam Thompson,CA
+12322   | 78.193.86.3      | PROXAD Free SAS,FR
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+3352    | 88.20.201.16     | TELEFONICA_DE_ESPANA TELEFONICA DE ESPANA,ES
+36352   | 192.3.24.178     | AS-COLOCROSSING - ColoCrossing,US
+29073   | 93.174.93.148    | ECATEL-AS AS29073, Ecatel Network,NL
+3301    | 90.231.152.159   | TELIANET-SWEDEN TeliaSonera AB,SE
+60117   | 185.45.192.105   | HS Host Sailor Ltd.,AE
+60781   | 62.212.84.229    | LEASEWEB-NL LeaseWeb B.V.,NL
+43289   | 178.175.139.139  | I.C.S. Trabia-Network S.R.L.,MD
+24940   | 78.46.51.124     | HETZNER-AS Hetzner Online AG,DE
+20115   | 96.35.130.131    | CHARTER-NET-HKY-NC - Charter Communications,US
+15830   | 178.79.139.46    | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+2611    | 192.135.168.251  | BELNET BELNET,BE
+20860   | 109.169.33.163   | IOMART-AS Iomart,GB
+12586   | 5.175.194.69     | ASGHOSTNET GHOSTnet GmbH,DE
+198093  | 171.25.193.20    | DFRI-AS Foreningen for digitala fri- och rattigheter,SE
+20676   | 83.236.208.78    | QSC-1 QSC AG,DE
+20845   | 78.131.36.156    | DIGICABLE DIGI Tavkozlesi es Szolgaltato Kft.,HU
+16276   | 37.187.239.8     | OVH OVH SAS,FR
+6939    | 192.81.249.31    | HURRICANE - Hurricane Electric, Inc.,US
+32097   | 173.208.247.213  | WII-KC - WholeSale Internet, Inc.,US
+16276   | 92.222.38.67     | OVH OVH SAS,FR
+42708   | 46.246.28.248    | PORTLANE Portlane AB,SE
+9822    | 203.161.103.17   | AMNET-AU-AP Amnet IT Services Pty Ltd,AU
+6830    | 213.127.146.27   | LGI-UPC Liberty Global Operations B.V.,AT
+29073   | 93.174.93.63     | ECATEL-AS AS29073, Ecatel Network,NL
+43802   | 178.219.245.214  | SUPERSKY Scientific-Industrial Enterprise _Myst_ LLC,UA
+22653   | 69.5.113.57      | GLOBALCOMPASS - Cyber Wurx LLC,US
+36012   | 216.115.3.26     | HUNTER-COMM - Hunter Communications,US
+16509   | 54.68.29.170     | AMAZON-02 - Amazon.com, Inc.,US
+196689  | 95.130.11.214    | DIGICUBE01 Digicube sas,FR
+29208   | 212.24.144.188   | DIALTELECOM-AS Dial Telecom, a.s.,SK
+24961   | 89.163.224.168   | MYLOC-AS myLoc managed IT AG,DE
+38719   | 27.124.124.122   | AUSTDOM-AS-AP Aust Domains International Pty Ltd.,AU
+7738    | 200.223.212.210  | Telemar Norte Leste S.A.,BR
+51430   | 128.127.105.14   | ALTUSHOST-NET AltusHost B.V.,NL
+55053   | 162.244.25.249   | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+59958   | 89.174.198.90    | MJ7912-RIPE P.H.U MMJ Marcin Janos,PL
+24961   | 5.199.142.195    | MYLOC-AS myLoc managed IT AG,DE
+20473   | 104.207.148.12   | AS-CHOOPA - Choopa, LLC,US
+13213   | 37.130.227.133   | UK2NET-AS UK2 - Ltd,GB
+58001   | 193.107.19.30    | IDEALSOLUTION-AS Ideal Solution Ltd,RU
+20825   | 178.201.70.51    | UNITYMEDIA Unitymedia NRW GmbH,DE
+41440   | 2.62.28.52       | SIBIRTELECOM-AS OJSC Rostelecom,RU
+3320    | 62.226.252.76    | DTAG Deutsche Telekom AG,DE
+16276   | 198.100.144.75   | OVH OVH SAS,FR
+3216    | 128.71.251.167   | SOVAM-AS OJSC _Vimpelcom_,RU
+43146   | 80.78.246.86     | AGAVA3 Agava Ltd.,RU
+12876   | 195.154.13.10    | AS12876 ONLINE S.A.S.,FR
+2119    | 85.164.17.108    | TELENOR-NEXTEL Telenor Norge AS,NO
+28573   | 179.232.244.183  | NET Serviços de Comunicação S.A.,BR
+13768   | 69.172.231.39    | PEER1 - Peer 1 Network (USA) Inc.,US
+43847   | 46.182.18.111    | NBISERV-AS Martin Prager trading as _NbIServ_,DE
+51395   | 176.10.99.202    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+12301   | 91.82.220.58     | INVITEL Invitel Tavkozlesi Zrt.,HU
+6315    | 166.70.207.2     | XMISSION - XMission, L.C.,US
+20860   | 109.169.0.29     | IOMART-AS Iomart,GB
+197019  | 37.157.194.210   | WEDOS WEDOS Internet, a.s.,CZ
+3462    | 61.219.119.41    | HINET Data Communication Business Group,TW
+42610   | 37.110.13.136    | NCNET-AS OJSC Rostelecom,RU
+4224    | 162.247.72.7     | CALYX-AS - The Calyx Institute,US
+31342   | 5.44.99.161      | EU-CLANOTOPIA Alvotech GmbH,DE
+14103   | 69.89.100.133    | ACDNET-ASN1 - ACD.net,US
+28260   | 187.95.34.3      | Altarede de Teresopolis Provedor de Internet Ltda,BR
+62567   | 162.243.100.225  | DIGITALOCEAN-ASN-NY2 - Digital Ocean, Inc.,US
+1653    | 193.11.137.19    | SUNET SUNET Swedish University Network,SE
+8342    | 81.176.228.54    | RTCOMM-AS OJSC RTComm.RU,RU
+15830   | 176.58.100.98    | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+12322   | 82.239.104.165   | PROXAD Free SAS,FR
+60781   | 83.149.126.29    | LEASEWEB-NL LeaseWeb B.V.,NL
+15557   | 77.202.209.196   | LDCOMNET Societe Francaise du Radiotelephone S.A,FR
+31127   | 92.245.194.234   | SATRO Satro, s.r.o.,SK
+35366   | 81.7.16.13       | ISPPRO-AS ISPpro Internet KG,DE
+15830   | 212.71.238.203   | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+30058   | 50.7.205.149     | FDCSERVERS - FDCservers.net,US
+16276   | 92.222.162.54    | OVH OVH SAS,FR
+8100    | 173.254.216.66   | ASN-QUADRANET-GLOBAL - QuadraNet, Inc,US
+200019  | 176.123.6.94     | ASCLOUDATA ALEXHOST SRL,MD
+46475   | 69.162.107.5     | LIMESTONENETWORKS - Limestone Networks, Inc.,US
+42825   | 78.85.85.117     | UDMVT-AS OJSC Rostelecom,RU
+2119    | 78.82.187.165    | TELENOR-NEXTEL Telenor Norge AS,NO
+15557   | 93.11.115.224    | LDCOMNET Societe Francaise du Radiotelephone S.A,FR
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+42420   | 46.187.3.156     | INTERNET-CENTER-AS Net By Net Holding LLC,RU
+15003   | 23.80.226.5      | NOBIS-TECH - Nobis Technology Group, LLC,US
+51430   | 79.142.70.3      | ALTUSHOST-NET AltusHost B.V.,NL
+60781   | 104.200.78.140   | LEASEWEB-NL LeaseWeb B.V.,NL
+55053   | 167.88.37.22     | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+55053   | 104.167.115.115  | COLOWAREHOUSEONTARIO - 2267921 ONTARIO LTD,CA
+24940   | 88.198.14.171    | HETZNER-AS Hetzner Online AG,DE
+15003   | 23.80.226.4      | NOBIS-TECH - Nobis Technology Group, LLC,US
+16509   | 52.8.62.161      | AMAZON-02 - Amazon.com, Inc.,US
+3462    | 59.115.118.232   | HINET Data Communication Business Group,TW
+60300   | 82.221.229.174   | IS-365NET 365 - midlar ehf,IS
+51395   | 176.10.99.200    | AS-SOFTPLUS SOFTplus Entwicklungen GmbH,CH
+52173   | 95.215.46.49     | MAKONIX Makonix SIA,LV
+5577    | 94.242.246.24    | ROOT root SA,LU
+198093  | 171.25.193.235   | DFRI-AS Foreningen for digitala fri- och rattigheter,SE
+6939    | 72.52.91.30      | HURRICANE - Hurricane Electric, Inc.,US
+11051   | 66.172.33.220    | CYBERVERSE - Cyberverse, Inc.,US
+20473   | 108.61.212.102   | AS-CHOOPA - Choopa, LLC,US
+36351   | 173.255.196.30   | SOFTLAYER - SoftLayer Technologies Inc.,US
+24940   | 5.9.110.133      | HETZNER-AS Hetzner Online AG,DE
+16125   | 85.204.74.104    | BALTICSERVERS1-AS UAB DUOMENU CENTRAS,LT
+24940   | 176.9.16.81      | HETZNER-AS Hetzner Online AG,DE
+1102    | 192.87.28.28     | SMEERBOEL-AS SMEERBOEL BV,EU
+8426    | 185.11.166.112   | CLARANET-AS ClaraNET LTD,GB
+8334    | 46.188.10.23     | CO-2COM-AS 2COM Co ltd.,RU
+40788   | 108.170.168.196  | START-CA - Start Communications,CA
+16276   | 142.4.208.167    | OVH OVH SAS,FR
+200130  | 188.226.254.89   | DIGITALOCEAN-ASN-1 Digital Ocean, Inc.,EU
+49902   | 213.222.96.106   | SRR-AS SOCIETE REUNIONNAISE DU RADIOTELEPHONE SCS,FR
+52022   | 91.220.220.5     | KLIMENKO-AA-AS Klimenko A.A. PE,RU
+16265   | 46.165.221.166   | LEASEWEB-NETWORK LeaseWeb B.V.,NL
+8972    | 62.75.188.13     | PLUSSERVER-AS PlusServer AG,DE
+38731   | 210.211.122.204  | VTDC-AS-VN Vietel - CHT Compamy Ltd,VN
+43317   | 94.242.57.38     | FISHNET-AS OOO _Fishnet Communications_,RU
+15830   | 80.85.84.72      | TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
+16276   | 142.4.213.25     | OVH OVH SAS,FR
+50618   | 178.20.55.16     | LIAZO Liazo SARL,FR
+33491   | 24.12.250.200    | COMCAST-33491 - Comcast Cable Communications, Inc.,US
+41786   | 37.112.239.177   | ERTH-YOLA-AS CJSC _ER-Telecom Holding_,RU
+12605   | 90.146.29.56     | LIWEST-AT LIWEST Kabelmedien GmbH,AT
+52173   | 185.61.149.193   | MAKONIX Makonix SIA,LV
+197019  | 31.31.78.141     | WEDOS WEDOS Internet, a.s.,CZ
+3301    | 194.218.3.79     | TELIANET-SWEDEN TeliaSonera AB,SE
+44724   | 95.154.88.252    | OCTOPUSNET-AS Octopusnet LTD,RU
+36352   | 23.95.43.74      | AS-COLOCROSSING - ColoCrossing,US
+51167   | 193.37.152.241   | CONTABO Contabo GmbH,DE
+43289   | 178.175.139.138  | I.C.S. Trabia-Network S.R.L.,MD
+24940   | 5.9.158.75       | HETZNER-AS Hetzner Online AG,DE
+17813   | 120.56.163.245   | MTNL-AP Mahanagar Telephone Nigam Ltd.,IN
+46841   | 162.218.65.126   | FORKNETWORKING - Fork Networking, LLC,US
+16276   | 91.121.159.196   | OVH OVH SAS,FR
+5769    | 24.200.15.92     | VIDEOTRON - Videotron Telecom Ltee,CA
+1851    | 129.127.254.213  | ADELAIDE-UNIVERSITY-AS-AP The University of Adelaide,AU
+197999  | 193.33.216.23    | EM-IT-AS Michael Gamsjaeger PE,AT
+6724    | 85.214.98.239    | STRATO STRATO AG,DE
+6830    | 89.132.15.129    | LGI-UPC Liberty Global Operations B.V.,AT
+16276   | 192.99.2.137     | OVH OVH SAS,FR
+8972    | 62.75.216.154    | PLUSSERVER-AS PlusServer AG,DE
+51167   | 80.241.217.66    | CONTABO Contabo GmbH,DE
+36352   | 199.188.100.154  | AS-COLOCROSSING - ColoCrossing,US
+12695   | 213.248.45.46    | DINET-AS Digital Networks CJSC,RU
+38457   | 123.108.224.70   | HNS-AS-AP Honesty Net Solution (I) Pvt Ltd,IN
+701     | 108.26.225.148   | UUNET - MCI Communications Services, Inc. d/b/a Verizon Business,US
+12322   | 82.228.252.20    | PROXAD Free SAS,FR
+43350   | 77.247.181.165   | NFORCE NFOrce Entertainment BV,NL
+5577    | 94.242.246.23    | ROOT root SA,LU
+29550   | 109.203.108.67   | SIMPLYTRANSIT Simply Transit Ltd,GB
+36903   | 41.249.89.23     | MT-MPLS,MA
+12876   | 62.210.69.5      | AS12876 ONLINE S.A.S.,FR
+16276   | 37.59.14.201     | OVH OVH SAS,FR
+133165  | 128.199.165.212  | DIGITALOCEAN-AS-AP Digital Ocean, Inc.,SG
+8334    | 46.188.0.87      | CO-2COM-AS 2COM Co ltd.,RU
+6830    | 81.89.0.199      | LGI-UPC Liberty Global Operations B.V.,AT
+51290   | 178.217.187.39   | HOSTEAM-AS HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI,PL
+20738   | 212.48.84.53     | AS20738 Webfusion Internet Solutions,GB
+5483    | 195.228.45.176   | HTC-AS Magyar Telekom Plc.,HU
+31103   | 87.118.91.140    | KEYWEB-AS Keyweb AG,DE
+3303    | 178.193.13.181   | SWISSCOM Swisscom (Switzerland) Ltd,CH
+4323    | 207.201.223.196  | TWTC - tw telecom holdings, inc.,US
+43317   | 94.242.58.204    | FISHNET-AS OOO _Fishnet Communications_,RU
+16276   | 37.187.107.210   | OVH OVH SAS,FR
+6830    | 46.167.245.172   | LGI-UPC Liberty Global Operations B.V.,AT
+34087   | 84.52.212.3      | NTE-BREDBAND NTE Bredband, Norway,NO
+6939    | 104.237.152.195  | HURRICANE - Hurricane Electric, Inc.,US
+32097   | 173.208.196.215  | WII-KC - WholeSale Internet, Inc.,US
+33652   | 73.14.113.54     | CMCS - Comcast Cable Communications, Inc.,US
+9198    | 178.89.2.110     | KAZTELECOM-AS JSC Kazakhtelecom,KZ
+51852   | 185.12.46.132    | PLI-AS Private Layer INC,CH
+16229   | 78.158.149.247   | PRIMETEL PrimeTel PLC Ltd,CY
+30083   | 209.126.110.112  | SERVER4YOU - Hosting Solutions International, Inc.,US
+34533   | 46.0.54.110      | ESAMARA-AS CJSC _ER-Telecom Holding_,RU
+53667   | 198.98.49.3      | PONYNET - FranTech Solutions,US
+197019  | 37.157.195.178   | WEDOS WEDOS Internet, a.s.,CZ
+30083   | 209.126.110.113  | SERVER4YOU - Hosting Solutions International, Inc.,US

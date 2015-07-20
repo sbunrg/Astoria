@@ -1,0 +1,10 @@
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/securesimulator/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/securesimulator/bin/Debug/SecureSimulator.dll.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/securesimulator/bin/Debug/SecureSimulator.dll
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/securesimulator/obj/Debug/SecureSimulator.dll
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/TestingCSharpCode/securesimulator/obj/Debug/SecureSimulator.dll.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/SecureSimulator/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/SecureSimulator/bin/Debug/SecureSimulator.dll.mdb
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/SecureSimulator/bin/Debug/SecureSimulator.dll
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/SecureSimulator/obj/Debug/SecureSimulator.dll
+/Network/Servers/nrgserv.nrg.cs.sunysb.edu/Volumes/Macintosh HD2/nrg/mniaz/Work/RoutingPoliciesProject/SecureSimulator/obj/Debug/SecureSimulator.dll.mdb
