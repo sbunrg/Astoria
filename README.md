@@ -27,7 +27,7 @@ Tor client) and a path prediction tool.
 Since Astoria is a fork of the original Tor client (and has large similarities 
 to it), the installation process is identical.
 
-
+In ./astoria-tor-client:
 > sh autogen.sh && ./configure && make && make install
 
 
