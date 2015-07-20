@@ -8,7 +8,7 @@ Find the paper that describes the internals of Astoria here: [Arxiv](http://arxi
 
 It may happen from time-to-time, that
 the details described in the paper will be out-of-date with the current 
-client. We will make effort to prevent this from happening too often.
+client. We will make the effort to prevent this from happening too often.
 
 ## Disclaimer 
 
